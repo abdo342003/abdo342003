@@ -1,7 +1,6 @@
-<!-- ============ HEADER BANNER (animated wave) ============ -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=190&section=header&text=Abdellah%20ERRAOUI&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CTO%20%26%20Co-Founder%20%40%20Flintlock%20Studio&descAlignY=58&descSize=18" alt="Header Banner" width="100%"/>
-</p>
+<!-- ============ HEADER ============ -->
+<h1 align="center">Abdellah ERRAOUI</h1>
+<h3 align="center">CTO & Co-Founder @ Flintlock Studio</h3>
 
 <!-- ============ TYPING ANIMATION ============ -->
 <p align="center">
@@ -256,7 +255,6 @@ Cybersecurity & Network Engineering student at **EMSI** (engineering degree in *
   <img src="https://raw.githubusercontent.com/abdo342003/abdo342003/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </p>
 
-<!-- ============ FOOTER WAVE ============ -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Build.%20Automate.%20Grow.&fontSize=22&fontColor=ffffff&animation=fadeIn&fontAlignY=68" alt="Footer Banner" width="100%"/>
-</p>
+<!-- ============ FOOTER ============ -->
+<hr/>
+<p align="center"><strong>Build. Automate. Grow. 🚀</strong></p>
