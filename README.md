@@ -1,5 +1,7 @@
 <!-- ============ HEADER BANNER (animated wave) ============ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=190&section=header&text=Abdellah%20ERRAOUI&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CTO%20%26%20Co-Founder%20%40%20Flintlock%20Studio&descAlignY=58&descSize=18" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=190&section=header&text=Abdellah%20ERRAOUI&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CTO%20%26%20Co-Founder%20%40%20Flintlock%20Studio&descAlignY=58&descSize=18" alt="Header Banner" width="100%"/>
+</p>
 
 <!-- ============ TYPING ANIMATION ============ -->
 <p align="center">
@@ -255,4 +257,6 @@ Cybersecurity & Network Engineering student at **EMSI** (engineering degree in *
 </p>
 
 <!-- ============ FOOTER WAVE ============ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Build.%20Automate.%20Grow.&fontSize=22&fontColor=ffffff&animation=fadeIn&fontAlignY=68" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Build.%20Automate.%20Grow.&fontSize=22&fontColor=ffffff&animation=fadeIn&fontAlignY=68" alt="Footer Banner" width="100%"/>
+</p>
