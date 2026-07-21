@@ -46,7 +46,35 @@ Cybersecurity & Network Engineering student at **EMSI** (engineering degree in *
 
 ---
 
-## 🏅 Certifications & Achievements
+## 🏆 Achievements & Events
+
+<table>
+  <tr>
+    <td width="45%">
+      <img src="https://raw.githubusercontent.com/abdo342003/abdo342003/main/eic-v2-group.jpg" alt="EMSI Inventors Cup V2" width="100%"/>
+    </td>
+    <td width="55%">
+      <h4>🥇 EMSI Inventors Cup V2</h4>
+      <p>Presented <strong>Exploit AI</strong> — autonomous pentest platform with LLM ReAct orchestrator</p>
+      <p>📅 May 2026 · 📍 EMSI Casablanca</p>
+    </td>
+  </tr>
+  <tr><td colspan="2"><hr/></td></tr>
+  <tr>
+    <td width="45%">
+      <img src="https://raw.githubusercontent.com/abdo342003/abdo342003/main/hackdays-group.jpg" alt="Bootcamp Hack's Days" width="100%"/>
+    </td>
+    <td width="55%">
+      <h4>💡 Bootcamp Hack's Days</h4>
+      <p>Built and pitched <strong>Exploit AI</strong> in 48h at EUROMED bootcamp</p>
+      <p>📅 May 2026 · 📍 EUROMED</p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🏅 Certifications
 
 <p align="center">
   <a href="https://tryhackme.com/p/abdo342003">
@@ -58,6 +86,14 @@ Cybersecurity & Network Engineering student at **EMSI** (engineering degree in *
   <a href="https://owasp.org/">
     <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white"/>
   </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Coursera-C%2B%2B-0056D2?style=flat-square&logo=coursera&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Coursera-Linux-0056D2?style=flat-square&logo=coursera&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Coursera-JavaScript-0056D2?style=flat-square&logo=coursera&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NDG-Linux-RedHat-EE0000?style=flat-square&logo=redhat&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Coursera-Negotiation-0056D2?style=flat-square&logo=coursera&logoColor=white"/>
 </p>
 
 ---
