@@ -183,7 +183,7 @@ Cybersecurity & Network Engineering student at **EMSI** (engineering degree in *
   <tr><td colspan="2"><hr/></td></tr>
   <tr>
     <td width="30%">
-      <img src="https://raw.githubusercontent.com/abdo342003/FlintLockAgency/main/ecologix-preview.png" alt="Ecologix" width="100%"/>
+      <img src="https://raw.githubusercontent.com/abdo342003/abdo342003/main/ecologix-hero.webp" alt="Ecologix" width="100%"/>
     </td>
     <td width="70%">
       <h4>🌿 Ecologix</h4>
