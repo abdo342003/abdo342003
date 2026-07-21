@@ -1,5 +1,5 @@
 <h1 align="center">Abdellah ERRAOUI</h1>
-<h3 align="center">Founder @ Flintlock Studio · Full-Stack Developer · Cybersecurity Enthusiast</h3>
+<h3 align="center">CTO & Co-Founder @ Flintlock Studio · Cybersecurity Engineering Student @ EMSI · Pentest & OT Security</h3>
 
 <p align="center">
   <a href="https://flintlockagency.com"><img src="https://img.shields.io/badge/Website-flintlockagency.com-6C5CE7?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
@@ -15,11 +15,12 @@
 
 ## 👨‍💻 Professional Summary
 
-Founder & consultant at **Flintlock Studio** — we help businesses **Build. Automate. Grow.** through web development, AI, automation and cybersecurity. Also a 4th-year cybersecurity learner focused on **offensive security (pentest)** and **automation with AI**. I build robust products end-to-end, from clean front-ends to automated back-office workflows.
+Cybersecurity & Network Engineering student at **EMSI** (engineering degree in *Cybersecurity & Network Infrastructures*, PFE Jan 2027) and **CTO / Co-Founder of Flintlock Studio** — a digital studio for **web development, AI, automation & cybersecurity** (*Build. Automate. Grow.*). I focus on **offensive security (pentest)**, **SOC** and **OT/ICS security**, and I build AI-driven security tooling end-to-end.
 
-- 🏢 Building **Flintlock Studio** (web · AI · automation · cybersecurity)
-- 🔐 Learning offensive & defensive security (OWASP, TryHackMe, PortSwigger)
-- 🤖 Passionate about AI-driven automation
+- 🛡️ Creator of **Exploit AI / NexGSec** — an autonomous penetration-testing platform (LLM ReAct orchestrator + Kali sandbox)
+- 🏭 Building **OT_Shield** — an OT/ICS intrusion detection & prevention system
+- 🏢 CTO & Co-Founder of **Flintlock Studio** (web · AI · automation · cybersecurity)
+- 🎯 Focus: **Pentest · SOC · OT Security** — training via OWASP, TryHackMe & PortSwigger
 - 🌍 Working in **French & English** — based in Casablanca, Morocco
 
 ---
@@ -28,18 +29,21 @@ Founder & consultant at **Flintlock Studio** — we help businesses **Build. Aut
 
 ### 💻 Development
 
-| Frontend | Backend | Mobile & Other |
+| Frontend | Backend | Languages & Tools |
 |:---|:---|:---|
-| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
-| ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) |
-| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
+| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+| ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) | ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
+| ![Astro](https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white) | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white) | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
 
-### 🔐 Cybersecurity
+### 🔐 Cybersecurity & OT/ICS
 
-| Offensive (Red Team) | Defensive (Blue Team) | Tooling |
+| Offensive (Red Team) | Defensive / OT (Blue Team) | Tooling |
 |:---|:---|:---|
 | ![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white) | ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
-| ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white) | ![OWASP](https://img.shields.io/badge/OWASP-000000?style=flat-square&logo=owasp&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
+| ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white) | ![Suricata](https://img.shields.io/badge/Suricata-EF3B2D?style=flat-square&logo=suricata&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
+| ![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=flat-square&logo=nmap&logoColor=white) | ![Elastic](https://img.shields.io/badge/Elastic-005571?style=flat-square&logo=elastic&logoColor=white) | ![OWASP](https://img.shields.io/badge/OWASP-000000?style=flat-square&logo=owasp&logoColor=white) |
+| ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white) | ![OPC UA](https://img.shields.io/badge/OPC_UA-0093DD?style=flat-square&logo=data&logoColor=white) | ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white) |
 
 ### 🗄️ Databases
 
@@ -53,10 +57,12 @@ Founder & consultant at **Flintlock Studio** — we help businesses **Build. Aut
 
 | Project | Description | Stack |
 |:---|:---|:---|
+| **Exploit AI / NexGSec** | Autonomous penetration-testing platform — LLM ReAct orchestrator + Kali sandbox (EMSI Inventors Cup V2) | FastAPI · Next.js · Docker · Kali · Python |
+| **OT_Shield** | OT/ICS intrusion detection & prevention system | OPC UA · Suricata · Elastic |
+| **RevetPro** | Business website with local SEO | Astro · Tailwind CSS |
+| **Flintlock Studio** | Agency site & AI automation stack | Web · AI · Automation |
 | **ImmobilierPro** | Real-estate management web app | HTML · JS |
 | **MindBalance** | Wellness / mental-balance app | Java |
-| **ChabakaPro** | Networking / business platform | JavaScript |
-| **Flintlock Studio** | Agency site & automation stack | Web · AI |
 
 ---
 
