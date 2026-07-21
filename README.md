@@ -111,18 +111,6 @@ Cybersecurity & Network Engineering student at **EMSI** (engineering degree in *
 
 ---
 
-## 🎬 Demo — Exploit AI / NexGSec
-
-> ▶️ Watch the autonomous pentest agent in action:
-
-<p align="center">
-  <a href="https://www.loom.com/share/10c55ac2901e4a3095209fcbe1926705">
-    <img src="https://img.shields.io/badge/▶_Watch_Demo_On_Loom-6C5CE7?style=for-the-badge&logo=loom&logoColor=white" alt="Exploit AI Loom Demo"/>
-  </a>
-</p>
-
----
-
 ## 🛠️ Tech Arsenal
 
 ### 💻 Development
@@ -157,12 +145,17 @@ Cybersecurity & Network Engineering student at **EMSI** (engineering degree in *
 <table>
   <tr>
     <td width="30%">
-      <img src="https://raw.githubusercontent.com/abdo342003/FlintLockAgency/main/nexgsec-dashboard.webp" alt="Exploit AI" width="100%"/>
+      <img src="https://raw.githubusercontent.com/abdo342003/abdo342003/main/exploit-ai-dashboard.png" alt="Exploit AI Dashboard" width="100%"/>
+      <img src="https://raw.githubusercontent.com/abdo342003/abdo342003/main/exploit-ai-login.png" alt="Exploit AI Login" width="100%"/>
     </td>
     <td width="70%">
       <h4>🛡️ Exploit AI / NexGSec</h4>
       <p>Autonomous penetration-testing platform — LLM ReAct orchestrator + Kali sandbox (EMSI Inventors Cup V2)</p>
       <code>FastAPI</code> <code>Next.js</code> <code>Docker</code> <code>Kali</code> <code>Python</code>
+      <br/><br/>
+      <a href="https://www.loom.com/share/10c55ac2901e4a3095209fcbe1926705">
+        <img src="https://img.shields.io/badge/▶_Watch_Demo-6C5CE7?style=flat-square&logo=loom&logoColor=white" alt="Demo"/>
+      </a>
     </td>
   </tr>
   <tr><td colspan="2"><hr/></td></tr>
