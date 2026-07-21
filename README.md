@@ -46,6 +46,33 @@ Cybersecurity & Network Engineering student at **EMSI** (engineering degree in *
 
 ---
 
+## 🏅 Certifications & Achievements
+
+<p align="center">
+  <a href="https://tryhackme.com/p/abdo342003">
+    <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white"/>
+  </a>
+  <a href="https://portswigger.net/web-security">
+    <img src="https://img.shields.io/badge/PortSwigger-FF6633?style=for-the-badge&logo=portswigger&logoColor=white"/>
+  </a>
+  <a href="https://owasp.org/">
+    <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## 📚 Currently Learning
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Cloudflare-Workers-2EA44F?style=for-the-badge&logo=cloudflare&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Advanced-LLM_Agents-6C5CE7?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Zero_Trust-Architecture-EA4335?style=for-the-badge&logo=security&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Threat-Hunting-FF6633?style=for-the-badge&logo=sigma&logoColor=white"/>
+</p>
+
+---
+
 ## 🎬 Demo — Exploit AI / NexGSec
 
 > ▶️ Watch the autonomous pentest agent in action:
