@@ -235,7 +235,7 @@ Cybersecurity & Network Engineering student at **EMSI** (engineering degree in *
   <img width="49%" src="https://streak-stats.demolab.com?user=abdo342003&theme=tokyonight&hide_border=true" />
 </p>
 <p align="center">
-  <img width="40%" src="https://github-stats.vercel.app/api/top-langs?username=abdo342003&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="40%" src="https://ghstats.io/api/top-langs?username=abdo342003&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ## 🏆 Trophies
