@@ -130,7 +130,7 @@ Cybersecurity & Network Engineering student at **EMSI** (engineering degree in *
   <tr><td colspan="2"><hr/></td></tr>
   <tr>
     <td width="30%">
-      <img src="https://raw.githubusercontent.com/abdo342003/FlintLockAgency/main/autonomous-attacker.png" alt="Autonomous Attacker" width="100%"/>
+      <img src="https://raw.githubusercontent.com/abdo342003/abdo342003/main/attacker-preview.png" alt="Autonomous Attacker" width="100%"/>
     </td>
     <td width="70%">
       <h4>⚡ Autonomous Attacker</h4>
