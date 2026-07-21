@@ -12,7 +12,7 @@
 </p>
 <p align="center">
   <a href="https://flintlockagency.com"><img src="https://img.shields.io/badge/Website-flintlockagency.com-6C5CE7?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/⟨ton-linkedin⟩"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/abdellah-erraoui-153137280/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:contact@flintlockagency.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 <p align="center">
@@ -30,6 +30,19 @@ Cybersecurity & Network Engineering student at **EMSI** (engineering degree in *
 - 🏢 CTO & Co-Founder of **Flintlock Studio** (web · AI · automation · cybersecurity)
 - 🎯 Focus: **Pentest · SOC · OT Security** — training via OWASP, TryHackMe & PortSwigger
 - 🌍 Working in **French & English** — based in Casablanca, Morocco
+
+---
+
+## 📄 Resume / CV
+
+<p align="center">
+  <a href="https://github.com/abdo342003/abdo342003/raw/main/CV_Abdellah_ERRAOUI_EN.pdf">
+    <img src="https://img.shields.io/badge/Download_CV_EN-6C5CE7?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://github.com/abdo342003/abdo342003/raw/main/CV_Abdellah_ERRAOUI_FR.pdf">
+    <img src="https://img.shields.io/badge/Download_CV_FR-6C5CE7?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
@@ -83,10 +96,14 @@ Cybersecurity & Network Engineering student at **EMSI** (engineering degree in *
 |:---|:---|:---|
 | **Exploit AI / NexGSec** | Autonomous penetration-testing platform — LLM ReAct orchestrator + Kali sandbox (EMSI Inventors Cup V2) | FastAPI · Next.js · Docker · Kali · Python |
 | **OT_Shield** | OT/ICS intrusion detection & prevention system | OPC UA · Suricata · Elastic |
+| **Autonomous Attacker** | Advanced Wi-Fi penetration test suite with PyQt6 desktop GUI and LLM-powered agents | Python · PyQt6 · Kali · LLM |
+| **Cyber Roadmap Planner** | Desktop app to organize cybersecurity learning roadmap and track progress | Python · Tkinter |
+| **Blockchain Diploma Cert** | Ethereum-based diploma certification system | Solidity · Ethereum · Web3 |
+| **Bookmark Manager** | Web app to save, organize and find links quickly | Web · JavaScript |
+| **FiftyFive Digital** | Production-ready Next.js marketing site with static export | Next.js · TypeScript · Tailwind |
+| **LaTeX Manager** | Professional desktop app for compiling and organizing LaTeX projects | Python · Tkinter |
 | **RevetPro** | Business website with local SEO | Astro · Tailwind CSS |
 | **Flintlock Studio** | Agency site & AI automation stack | Web · AI · Automation |
-| **ImmobilierPro** | Real-estate management web app | HTML · JS |
-| **MindBalance** | Wellness / mental-balance app | Java |
 
 ---
 
