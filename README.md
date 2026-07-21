@@ -229,17 +229,17 @@ Cybersecurity & Network Engineering student at **EMSI** (engineering degree in *
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=abdo342003&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=abdo342003&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+  <img width="49%" src="https://github-stats.vercel.app/api?username=abdo342003&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=abdo342003&theme=tokyonight&hide_border=true" />
 </p>
 <p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdo342003&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+  <img width="40%" src="https://github-stats.vercel.app/api/top-langs?username=abdo342003&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ## 🏆 Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abdo342003&theme=algolia&no-frame=true&column=7&cache_seconds=1800" />
+  <img src="https://github-profile-trophy.vercel.app/?username=abdo342003&theme=algolia&no-frame=true&column=7" />
 </p>
 
 ## 📈 Contribution Activity
