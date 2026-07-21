@@ -94,6 +94,7 @@ Cybersecurity & Network Engineering student at **EMSI** (engineering degree in *
   <img src="https://img.shields.io/badge/Coursera-JavaScript-0056D2?style=flat-square&logo=coursera&logoColor=white"/>
   <img src="https://img.shields.io/badge/NDG-Linux-RedHat-EE0000?style=flat-square&logo=redhat&logoColor=white"/>
   <img src="https://img.shields.io/badge/Coursera-Negotiation-0056D2?style=flat-square&logo=coursera&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootcamp-EuroMed-2EA44F?style=flat-square&logo=graduationcap&logoColor=white"/>
 </p>
 
 ---
