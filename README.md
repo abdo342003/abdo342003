@@ -1,12 +1,20 @@
-<h1 align="center">Abdellah ERRAOUI</h1>
-<h3 align="center">CTO & Co-Founder @ Flintlock Studio · Cybersecurity Engineering Student @ EMSI · Pentest & OT Security</h3>
+<!-- ============ HEADER BANNER (animated wave) ============ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=190&section=header&text=Abdellah%20ERRAOUI&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CTO%20%26%20Co-Founder%20%40%20Flintlock%20Studio&descAlignY=58&descSize=18" />
 
+<!-- ============ TYPING ANIMATION ============ -->
+<p align="center">
+  <a href="https://github.com/abdo342003"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C5CE7&center=true&vCenter=true&width=680&lines=Cybersecurity+Engineering+Student+%40+EMSI;Creator+of+Exploit+AI+%E2%80%94+Autonomous+Pentest+Agent;Pentest+%C2%B7+SOC+%C2%B7+OT%2FICS+Security;Build.+Automate.+Grow.+%F0%9F%9A%80" alt="Typing SVG" /></a>
+</p>
+
+<!-- ============ AVAILABILITY + SOCIAL ============ -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Open%20to%20PFE%20%26%20Internship-Jan%202027-2EA44F?style=for-the-badge&logo=hackthebox&logoColor=white" />
+</p>
 <p align="center">
   <a href="https://flintlockagency.com"><img src="https://img.shields.io/badge/Website-flintlockagency.com-6C5CE7?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/⟨ton-linkedin⟩"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:contact@flintlockagency.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=abdo342003&label=Profile%20views&color=6C5CE7&style=flat" alt="profile views" />
 </p>
@@ -22,6 +30,22 @@ Cybersecurity & Network Engineering student at **EMSI** (engineering degree in *
 - 🏢 CTO & Co-Founder of **Flintlock Studio** (web · AI · automation · cybersecurity)
 - 🎯 Focus: **Pentest · SOC · OT Security** — training via OWASP, TryHackMe & PortSwigger
 - 🌍 Working in **French & English** — based in Casablanca, Morocco
+
+---
+
+## 🎬 Demo — Exploit AI / NexGSec
+
+> ▶️ Watch the autonomous pentest agent in action:
+
+<!-- WAY 1 (recommended): open this README in the GitHub web editor and DRAG & DROP your .mp4 right here.
+     GitHub hosts it and inserts a native video player automatically (up to ~100 MB). -->
+
+<!-- WAY 2: click-through thumbnail that opens a hosted video (YouTube / Loom). Replace BOTH links below: -->
+<p align="center">
+  <a href="⟨VIDEO_URL⟩">
+    <img src="⟨THUMBNAIL_URL⟩" width="70%" alt="Exploit AI demo" />
+  </a>
+</p>
 
 ---
 
@@ -72,11 +96,26 @@ Cybersecurity & Network Engineering student at **EMSI** (engineering degree in *
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=abdo342003&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=abdo342003&theme=tokyonight&hide_border=true" />
 </p>
-
 <p align="center">
   <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdo342003&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
----
+## 🏆 Trophies
 
-<h3 align="center">Build. Automate. Grow. 🚀</h3>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=abdo342003&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4" />
+</p>
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=abdo342003&theme=tokyo-night&hide_border=true&area=true" />
+</p>
+
+<!-- Snake animation (needs the GitHub Action below — see guide) -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/abdo342003/abdo342003/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</p>
+
+<!-- ============ FOOTER WAVE ============ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Build.%20Automate.%20Grow.&fontSize=22&fontColor=ffffff&animation=fadeIn&fontAlignY=68" />
