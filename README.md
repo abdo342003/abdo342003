@@ -77,13 +77,9 @@ Cybersecurity & Network Engineering student at **EMSI** (engineering degree in *
 
 > ▶️ Watch the autonomous pentest agent in action:
 
-<!-- WAY 1 (recommended): open this README in the GitHub web editor and DRAG & DROP your .mp4 right here.
-     GitHub hosts it and inserts a native video player automatically (up to ~100 MB). -->
-
-<!-- WAY 2: click-through thumbnail that opens a hosted video (YouTube / Loom). Replace BOTH links below: -->
 <p align="center">
-  <a href="⟨VIDEO_URL⟩">
-    <img src="⟨THUMBNAIL_URL⟩" width="70%" alt="Exploit AI demo" />
+  <a href="https://www.loom.com/share/10c55ac2901e4a3095209fcbe1926705">
+    <img src="https://cdn.loom.com/sessions/thumbnails/10c55ac2901e4a3095209fcbe1926705-with-play-over.png" width="70%" alt="Exploit AI demo" />
   </a>
 </p>
 
