@@ -38,10 +38,16 @@ Cybersecurity & Network Engineering student at **EMSI** (engineering degree in *
 
 <p align="center">
   <a href="https://github.com/abdo342003/abdo342003/raw/main/CV_Abdellah_ERRAOUI_EN.pdf">
-    <img src="https://img.shields.io/badge/Download_CV_EN-6C5CE7?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/CV_EN-6C5CE7?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://github.com/abdo342003/abdo342003/raw/main/CV_Abdellah_ERRAOUI_FR.pdf">
-    <img src="https://img.shields.io/badge/Download_CV_FR-6C5CE7?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/CV_FR-6C5CE7?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://github.com/abdo342003/abdo342003/raw/main/CV_Abdellah_ERRAOUI_EN_ATS.pdf">
+    <img src="https://img.shields.io/badge/ATS_EN-2EA44F?style=for-the-badge&logo=robot&logoColor=white"/>
+  </a>
+  <a href="https://github.com/abdo342003/abdo342003/raw/main/CV_Abdellah_ERRAOUI_FR_ATS.pdf">
+    <img src="https://img.shields.io/badge/ATS_FR-2EA44F?style=for-the-badge&logo=robot&logoColor=white"/>
   </a>
 </p>
 
