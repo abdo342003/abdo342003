@@ -239,7 +239,7 @@ Cybersecurity & Network Engineering student at **EMSI** (engineering degree in *
 ## 🏆 Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abdo342003&theme=algolia&no-frame=true&column=7" />
+  <img src="https://github-profile-trophy-alpha.vercel.app/?username=abdo342003&theme=algolia&no-frame=true&column=7" />
 </p>
 
 ## 📈 Contribution Activity
