@@ -79,7 +79,7 @@ Cybersecurity & Network Engineering student at **EMSI** (engineering degree in *
 
 <p align="center">
   <a href="https://www.loom.com/share/10c55ac2901e4a3095209fcbe1926705">
-    <img src="https://cdn.loom.com/sessions/thumbnails/10c55ac2901e4a3095209fcbe1926705-with-play-over.png" width="70%" alt="Exploit AI demo" />
+    <img src="https://img.shields.io/badge/▶_Watch_Demo_On_Loom-6C5CE7?style=for-the-badge&logo=loom&logoColor=white" alt="Exploit AI Loom Demo"/>
   </a>
 </p>
 
@@ -94,7 +94,8 @@ Cybersecurity & Network Engineering student at **EMSI** (engineering degree in *
 | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
 | ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
 | ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) | ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
-| ![Astro](https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white) | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white) | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
+| ![Astro](https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white) | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white) | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) |
+| | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) | ![GitHub_Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) |
 
 ### 🔐 Cybersecurity & OT/ICS
 
@@ -115,18 +116,77 @@ Cybersecurity & Network Engineering student at **EMSI** (engineering degree in *
 
 ## 🚀 Featured Projects
 
+<table>
+  <tr>
+    <td width="30%">
+      <img src="https://raw.githubusercontent.com/abdo342003/FlintLockAgency/main/nexgsec-dashboard.webp" alt="Exploit AI" width="100%"/>
+    </td>
+    <td width="70%">
+      <h4>🛡️ Exploit AI / NexGSec</h4>
+      <p>Autonomous penetration-testing platform — LLM ReAct orchestrator + Kali sandbox (EMSI Inventors Cup V2)</p>
+      <code>FastAPI</code> <code>Next.js</code> <code>Docker</code> <code>Kali</code> <code>Python</code>
+    </td>
+  </tr>
+  <tr><td colspan="2"><hr/></td></tr>
+  <tr>
+    <td width="30%">
+      <img src="https://raw.githubusercontent.com/abdo342003/FlintLockAgency/main/autonomous-attacker.png" alt="Autonomous Attacker" width="100%"/>
+    </td>
+    <td width="70%">
+      <h4>⚡ Autonomous Attacker</h4>
+      <p>Advanced Wi-Fi penetration test suite with PyQt6 desktop GUI and LLM-powered agents</p>
+      <code>Python</code> <code>PyQt6</code> <code>Kali</code> <code>LLM</code>
+    </td>
+  </tr>
+  <tr><td colspan="2"><hr/></td></tr>
+  <tr>
+    <td width="30%">
+      <img src="https://raw.githubusercontent.com/abdo342003/FlintLockAgency/main/fiftyfive-digital.png" alt="FiftyFive Digital" width="100%"/>
+    </td>
+    <td width="70%">
+      <h4>🌐 FiftyFive Digital</h4>
+      <p>Production-ready Next.js marketing site with static export</p>
+      <code>Next.js</code> <code>TypeScript</code> <code>Tailwind</code>
+    </td>
+  </tr>
+  <tr><td colspan="2"><hr/></td></tr>
+  <tr>
+    <td width="30%">
+      <img src="https://raw.githubusercontent.com/abdo342003/FlintLockAgency/main/ecologix-preview.png" alt="Ecologix" width="100%"/>
+    </td>
+    <td width="70%">
+      <h4>🌿 Ecologix</h4>
+      <p>Eco-friendly digital solution with modern web stack</p>
+      <code>Astro</code> <code>Tailwind</code>
+    </td>
+  </tr>
+  <tr><td colspan="2"><hr/></td></tr>
+  <tr>
+    <td width="30%">
+      <img src="https://raw.githubusercontent.com/abdo342003/FlintLockAgency/main/jardin-majorelle.webp" alt="Jardin Majorelle" width="100%"/>
+    </td>
+    <td width="70%">
+      <h4>🪴 Jardin Majorelle</h4>
+      <p>Interactive web experience for the famous Majorelle Garden</p>
+      <code>HTML</code> <code>CSS</code> <code>JavaScript</code>
+    </td>
+  </tr>
+</table>
+
+<details>
+<summary><strong>📦 More Projects</strong></summary>
+
 | Project | Description | Stack |
 |:---|:---|:---|
-| **Exploit AI / NexGSec** | Autonomous penetration-testing platform — LLM ReAct orchestrator + Kali sandbox (EMSI Inventors Cup V2) | FastAPI · Next.js · Docker · Kali · Python |
 | **OT_Shield** | OT/ICS intrusion detection & prevention system | OPC UA · Suricata · Elastic |
-| **Autonomous Attacker** | Advanced Wi-Fi penetration test suite with PyQt6 desktop GUI and LLM-powered agents | Python · PyQt6 · Kali · LLM |
 | **Cyber Roadmap Planner** | Desktop app to organize cybersecurity learning roadmap and track progress | Python · Tkinter |
 | **Blockchain Diploma Cert** | Ethereum-based diploma certification system | Solidity · Ethereum · Web3 |
 | **Bookmark Manager** | Web app to save, organize and find links quickly | Web · JavaScript |
-| **FiftyFive Digital** | Production-ready Next.js marketing site with static export | Next.js · TypeScript · Tailwind |
 | **LaTeX Manager** | Professional desktop app for compiling and organizing LaTeX projects | Python · Tkinter |
 | **RevetPro** | Business website with local SEO | Astro · Tailwind CSS |
 | **Flintlock Studio** | Agency site & AI automation stack | Web · AI · Automation |
+
+</details>
 
 ---
 
@@ -143,7 +203,9 @@ Cybersecurity & Network Engineering student at **EMSI** (engineering degree in *
 ## 🏆 Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abdo342003&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=abdo342003&theme=algolia&no-frame=true&column=7" />
+  </a>
 </p>
 
 ## 📈 Contribution Activity
