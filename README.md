@@ -1,10 +1,10 @@
 <!-- ============ HEADER ============ -->
 <h1 align="center">Abdellah ERRAOUI</h1>
-<h3 align="center">CTO & Co-Founder @ Flintlock Studio</h3>
+<h3 align="center">Cybersecurity & Network Engineering Student @ EMSI</h3>
 
 <!-- ============ TYPING ANIMATION ============ -->
 <p align="center">
-  <a href="https://github.com/abdo342003"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C5CE7&center=true&vCenter=true&width=680&lines=Cybersecurity+Engineering+Student+%40+EMSI;Creator+of+Exploit+AI+%E2%80%94+Autonomous+Pentest+Agent;Pentest+%C2%B7+SOC+%C2%B7+OT%2FICS+Security;Build.+Automate.+Grow.+%F0%9F%9A%80" alt="Typing SVG" /></a>
+  <a href="https://github.com/abdo342003"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C5CE7&center=true&vCenter=true&width=680&lines=Cybersecurity+Engineering+Student+%40+EMSI;Creator+of+Exploit+AI+%E2%80%94+Autonomous+Pentest+Agent;Pentest+%C2%B7+SOC+%C2%B7+OT%2FICS+Security;AI-Driven+Security+Tooling+%F0%9F%9B%A1%EF%B8%8F" alt="Typing SVG" /></a>
 </p>
 
 <!-- ============ AVAILABILITY + SOCIAL ============ -->
@@ -12,9 +12,7 @@
   <img src="https://img.shields.io/badge/Open%20to%20PFE%20%26%20Internship-Jan%202027-2EA44F?style=for-the-badge&logo=hackthebox&logoColor=white" />
 </p>
 <p align="center">
-  <a href="https://flintlockagency.com"><img src="https://img.shields.io/badge/Website-flintlockagency.com-6C5CE7?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/abdellah-erraoui-153137280/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:contact@flintlockagency.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=abdo342003&label=Profile%20views&color=6C5CE7&style=flat" alt="profile views" />
@@ -24,11 +22,10 @@
 
 ## 👨‍💻 Professional Summary
 
-Cybersecurity & Network Engineering student at **EMSI** (engineering degree in *Cybersecurity & Network Infrastructures*, PFE Jan 2027) and **CTO / Co-Founder of Flintlock Studio** — a digital studio for **web development, AI, automation & cybersecurity** (*Build. Automate. Grow.*). I focus on **offensive security (pentest)**, **SOC** and **OT/ICS security**, and I build AI-driven security tooling end-to-end.
+Cybersecurity & Network Engineering student at **EMSI** (engineering degree in *Cybersecurity & Network Infrastructures*, PFE Jan 2027). I focus on **offensive security (pentest)**, **SOC** and **OT/ICS security**, and I build AI-driven security tooling end-to-end.
 
 - 🛡️ Creator of **Exploit AI / NexGSec** — an autonomous penetration-testing platform (LLM ReAct orchestrator + Kali sandbox)
 - 🏭 Building **OT_Shield** — an OT/ICS intrusion detection & prevention system
-- 🏢 CTO & Co-Founder of **Flintlock Studio** (web · AI · automation · cybersecurity)
 - 🎯 Focus: **Pentest · SOC · OT Security** — training via OWASP, TryHackMe & PortSwigger
 - 🌍 Working in **French & English** — based in Casablanca, Morocco
 
@@ -175,17 +172,7 @@ Cybersecurity & Network Engineering student at **EMSI** (engineering degree in *
       <code>Python</code> <code>PyQt6</code> <code>Kali</code> <code>LLM</code>
     </td>
   </tr>
-  <tr><td colspan="2"><hr/></td></tr>
-  <tr>
-    <td width="30%">
-      <img src="https://raw.githubusercontent.com/abdo342003/FlintLockAgency/main/fiftyfive-digital.png" alt="FiftyFive Digital" width="100%"/>
-    </td>
-    <td width="70%">
-      <h4>🌐 FiftyFive Digital</h4>
-      <p>Production-ready Next.js marketing site with static export</p>
-      <code>Next.js</code> <code>TypeScript</code> <code>Tailwind</code>
-    </td>
-  </tr>
+
   <tr><td colspan="2"><hr/></td></tr>
   <tr>
     <td width="30%">
@@ -197,17 +184,7 @@ Cybersecurity & Network Engineering student at **EMSI** (engineering degree in *
       <code>Astro</code> <code>Tailwind</code>
     </td>
   </tr>
-  <tr><td colspan="2"><hr/></td></tr>
-  <tr>
-    <td width="30%">
-      <img src="https://raw.githubusercontent.com/abdo342003/FlintLockAgency/main/jardin-majorelle.webp" alt="Jardin Majorelle" width="100%"/>
-    </td>
-    <td width="70%">
-      <h4>🪴 Jardin Majorelle</h4>
-      <p>Interactive web experience for the famous Majorelle Garden</p>
-      <code>HTML</code> <code>CSS</code> <code>JavaScript</code>
-    </td>
-  </tr>
+
 </table>
 
 <details>
@@ -221,7 +198,6 @@ Cybersecurity & Network Engineering student at **EMSI** (engineering degree in *
 | **Bookmark Manager** | Web app to save, organize and find links quickly | Web · JavaScript |
 | **LaTeX Manager** | Professional desktop app for compiling and organizing LaTeX projects | Python · Tkinter |
 | **RevetPro** | Business website with local SEO | Astro · Tailwind CSS |
-| **Flintlock Studio** | Agency site & AI automation stack | Web · AI · Automation |
 
 </details>
 
@@ -253,4 +229,4 @@ Cybersecurity & Network Engineering student at **EMSI** (engineering degree in *
 
 <!-- ============ FOOTER ============ -->
 <hr/>
-<p align="center"><strong>Build. Automate. Grow. 🚀</strong></p>
+<p align="center"><strong>Pentest · SOC · OT/ICS Security 🚀</strong></p>
