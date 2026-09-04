@@ -1,232 +1,215 @@
 <!-- ============ HEADER ============ -->
 <h1 align="center">Abdellah ERRAOUI</h1>
-<h3 align="center">Cybersecurity & Network Engineering Student @ EMSI</h3>
-
-<!-- ============ TYPING ANIMATION ============ -->
+<h3 align="center">Final-year Cybersecurity &amp; Network Engineering Student @ EMSI Casablanca</h3>
+<p align="center">Penetration testing &nbsp;·&nbsp; SOC &amp; detection engineering &nbsp;·&nbsp; OT/ICS security</p>
+​
+<!-- ============ AVAILABILITY + CONTACT ============ -->
 <p align="center">
-  <a href="https://github.com/abdo342003"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C5CE7&center=true&vCenter=true&width=680&lines=Cybersecurity+Engineering+Student+%40+EMSI;Creator+of+Exploit+AI+%E2%80%94+Autonomous+Pentest+Agent;Pentest+%C2%B7+SOC+%C2%B7+OT%2FICS+Security;AI-Driven+Security+Tooling+%F0%9F%9B%A1%EF%B8%8F" alt="Typing SVG" /></a>
-</p>
-
-<!-- ============ AVAILABILITY + SOCIAL ============ -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Open%20to%20PFE%20%26%20Internship-Jan%202027-2EA44F?style=for-the-badge&logo=hackthebox&logoColor=white" />
+<img src="https://img.shields.io/badge/Open%20to%20a%206--month%20final--year%20internship%20(PFE)-Jan%20%2F%20Feb%202027-2EA44F?style=for-the-badge&logo=hackthebox&logoColor=white" alt="Open to a 6-month final-year internship, January or February 2027" />
 </p>
 <p align="center">
-  <a href="https://www.linkedin.com/in/abdellah-erraoui-153137280/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/abdellah-erraoui-153137280/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:abdellaherraoui3@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<img src="https://img.shields.io/badge/Casablanca-Morocco-1F6FEB?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Casablanca, Morocco" />
 </p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abdo342003&label=Profile%20views&color=6C5CE7&style=flat" alt="profile views" />
-</p>
-
+​
 ---
-
-## 👨‍💻 Professional Summary
-
-Cybersecurity & Network Engineering student at **EMSI** (engineering degree in *Cybersecurity & Network Infrastructures*, PFE Jan 2027). I focus on **offensive security (pentest)**, **SOC** and **OT/ICS security**, and I build AI-driven security tooling end-to-end.
-
-- 🛡️ Creator of **Exploit AI / NexGSec** — an autonomous penetration-testing platform (LLM ReAct orchestrator + Kali sandbox)
-- 🏭 Building **OT_Shield** — an OT/ICS intrusion detection & prevention system
-- 🎯 Focus: **Pentest · SOC · OT Security** — training via OWASP, TryHackMe & PortSwigger
-- 🌍 Working in **French & English** — based in Casablanca, Morocco
-
+​
+## 👨‍💻 Profile
+​
+**Final-year (5th year)** engineering student at **EMSI Casablanca**, majoring in *Cybersecurity &amp; Network Infrastructure* — State Engineering Degree expected in **2027**, member of the **LPRI** research laboratory.
+​
+I am not only a student: I work **part-time as a Cybersecurity &amp; Penetration Testing Consultant at Fifty Five Digital** (since March 2025), where I run black-box web audits (OWASP) and SOC monitoring on the Elastic Stack for real clients.
+​
+- 🛡️ Author of **Autonomous Attacker** — an offensive Wi-Fi auditing suite: 97 modules, 1,762 automated tests, built-in scope enforcement
+- 🧠 Author of **Exploit AI** — AI-assisted pentest orchestration on a Neo4j CVE / CWE / MITRE ATT&amp;CK graph: audit time cut from 45 days to 7
+- 🏭 Building **OT_Shield** — an IDPS for an industrial digital twin (OPC UA, Suricata, Elastic, IEC 62443 zones &amp; conduits)
+- 🌍 Working languages: **Arabic (native) · French (C1) · English (C1)**
+- 🎯 Looking for a **6-month final-year internship starting January or February 2027** — internship agreement provided by EMSI, open to relocation (France &amp; international)
+​
 ---
-
+​
+## 💼 Experience
+​
+| Period | Role | What I actually did |
+|:---|:---|:---|
+| **Mar 2025 – present** | **Cybersecurity &amp; Pentest Consultant** (part-time) — Fifty Five Digital | Black-box web penetration tests (OWASP): WAF bypass, exposed admin interfaces, production misconfigurations, with remediation plans. SOC monitoring and incident response on the **Elastic Stack**: detection rules, Suricata, Wireshark, reduced MTTD. |
+| **2026** | **Responsible disclosure** — EMSI infrastructure | Reported a critical vulnerability on my school's infrastructure and worked with the IT department through to the fix. |
+| **2026 – present** | **Co-founder &amp; developer** — Flintlock Studio (freelance activity, two-person team) | 6 web projects delivered, security-by-design and application hardening (OWASP). |
+| **Apr – May 2024** | **IT Infrastructure Intern** — ISCAE | Windows Server 2022 deployment (Active Directory, GPO) and VLAN segmentation to isolate critical flows. |
+​
+---
+​
 ## 📄 Resume / CV
-
+​
+<!-- Upload the two current PDFs to this repository, then delete the old CV files.
+     Current files: CV_Abdellah_ERRAOUI_Cyber_Pentest_PFE_2027_EN.pdf / _FR.pdf -->
 <p align="center">
-  <a href="https://github.com/abdo342003/abdo342003/raw/main/CV_Abdellah_ERRAOUI_EN.pdf">
-    <img src="https://img.shields.io/badge/CV_EN-6C5CE7?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://github.com/abdo342003/abdo342003/raw/main/CV_Abdellah_ERRAOUI_FR.pdf">
-    <img src="https://img.shields.io/badge/CV_FR-6C5CE7?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://github.com/abdo342003/abdo342003/raw/main/CV_Abdellah_ERRAOUI_EN_ATS.pdf">
-    <img src="https://img.shields.io/badge/ATS_EN-2EA44F?style=for-the-badge&logo=robot&logoColor=white"/>
-  </a>
-  <a href="https://github.com/abdo342003/abdo342003/raw/main/CV_Abdellah_ERRAOUI_FR_ATS.pdf">
-    <img src="https://img.shields.io/badge/ATS_FR-2EA44F?style=for-the-badge&logo=robot&logoColor=white"/>
-  </a>
+<a href="https://github.com/abdo342003/abdo342003/raw/main/CV_Abdellah_ERRAOUI_Cyber_Pentest_PFE_2027_EN.pdf">
+<img src="https://img.shields.io/badge/CV%20—%20English-6C5CE7?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="CV in English" />
+</a>
+<a href="https://github.com/abdo342003/abdo342003/raw/main/CV_Abdellah_ERRAOUI_Cyber_Pentest_PFE_2027_FR.pdf">
+<img src="https://img.shields.io/badge/CV%20—%20Fran%C3%A7ais-6C5CE7?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="CV en français" />
+</a>
 </p>
-
+​
 ---
-
-## 🏆 Achievements & Events
-
-<table>
-  <tr>
-    <td width="45%">
-      <img src="https://raw.githubusercontent.com/abdo342003/abdo342003/main/eic-v2-group.jpg" alt="EMSI Inventors Cup V2" width="100%"/>
-    </td>
-    <td width="55%">
-      <h4>🥇 EMSI Inventors Cup V2</h4>
-      <p>Presented <strong>Exploit AI</strong> — autonomous pentest platform with LLM ReAct orchestrator</p>
-      <p>📅 May 2026 · 📍 EMSI Casablanca</p>
-    </td>
-  </tr>
-  <tr><td colspan="2"><hr/></td></tr>
-  <tr>
-    <td width="45%">
-      <img src="https://raw.githubusercontent.com/abdo342003/abdo342003/main/hackdays-group.jpg" alt="Bootcamp Hack's Days" width="100%"/>
-    </td>
-    <td width="55%">
-      <h4>💡 Bootcamp Hack's Days</h4>
-      <p>Built and pitched <strong>Exploit AI</strong> in 48h at EUROMED bootcamp</p>
-      <p>📅 May 2026 · 📍 EUROMED</p>
-    </td>
-  </tr>
-</table>
-
----
-
-## 🏅 Certifications
-
-<p align="center">
-  <a href="https://tryhackme.com/p/abdo342003">
-    <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white"/>
-  </a>
-  <a href="https://portswigger.net/web-security">
-    <img src="https://img.shields.io/badge/PortSwigger-FF6633?style=for-the-badge&logo=portswigger&logoColor=white"/>
-  </a>
-  <a href="https://owasp.org/">
-    <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white"/>
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Coursera-C%2B%2B-0056D2?style=flat-square&logo=coursera&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Coursera-Linux-0056D2?style=flat-square&logo=coursera&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Coursera-JavaScript-0056D2?style=flat-square&logo=coursera&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NDG-Linux-RedHat-EE0000?style=flat-square&logo=redhat&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Coursera-Negotiation-0056D2?style=flat-square&logo=coursera&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bootcamp-EuroMed-2EA44F?style=flat-square&logo=graduationcap&logoColor=white"/>
-</p>
-
----
-
-## 📚 Currently Learning
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Cloudflare-Workers-2EA44F?style=for-the-badge&logo=cloudflare&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Advanced-LLM_Agents-6C5CE7?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Zero_Trust-Architecture-EA4335?style=for-the-badge&logo=security&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Threat-Hunting-FF6633?style=for-the-badge&logo=sigma&logoColor=white"/>
-</p>
-
----
-
-## 🛠️ Tech Arsenal
-
-### 💻 Development
-
-| Frontend | Backend | Languages & Tools |
-|:---|:---|:---|
-| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
-| ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
-| ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) | ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
-| ![Astro](https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white) | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white) | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) |
-| | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) | ![GitHub_Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) |
-
-### 🔐 Cybersecurity & OT/ICS
-
-| Offensive (Red Team) | Defensive / OT (Blue Team) | Tooling |
-|:---|:---|:---|
-| ![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white) | ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
-| ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white) | ![Suricata](https://img.shields.io/badge/Suricata-EF3B2D?style=flat-square&logo=suricata&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
-| ![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=flat-square&logo=nmap&logoColor=white) | ![Elastic](https://img.shields.io/badge/Elastic-005571?style=flat-square&logo=elastic&logoColor=white) | ![OWASP](https://img.shields.io/badge/OWASP-000000?style=flat-square&logo=owasp&logoColor=white) |
-| ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white) | ![OPC UA](https://img.shields.io/badge/OPC_UA-0093DD?style=flat-square&logo=data&logoColor=white) | ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white) |
-
-### 🗄️ Databases
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-
----
-
+​
 ## 🚀 Featured Projects
-
+​
 <table>
-  <tr>
-    <td width="30%">
-      <img src="https://raw.githubusercontent.com/abdo342003/abdo342003/main/exploit-ai-dashboard.png" alt="Exploit AI Dashboard" width="100%"/>
-      <img src="https://raw.githubusercontent.com/abdo342003/abdo342003/main/exploit-ai-login.png" alt="Exploit AI Login" width="100%"/>
-    </td>
-    <td width="70%">
-      <h4>🛡️ Exploit AI / NexGSec</h4>
-      <p>Autonomous penetration-testing platform — LLM ReAct orchestrator + Kali sandbox (EMSI Inventors Cup V2)</p>
-      <code>FastAPI</code> <code>Next.js</code> <code>Docker</code> <code>Kali</code> <code>Python</code>
-      <br/><br/>
-      <a href="https://www.loom.com/share/10c55ac2901e4a3095209fcbe1926705">
-        <img src="https://img.shields.io/badge/▶_Watch_Demo-6C5CE7?style=flat-square&logo=loom&logoColor=white" alt="Demo"/>
-      </a>
-    </td>
-  </tr>
-  <tr><td colspan="2"><hr/></td></tr>
-  <tr>
-    <td width="30%">
-      <img src="https://raw.githubusercontent.com/abdo342003/abdo342003/main/attacker-preview.png" alt="Autonomous Attacker" width="100%"/>
-    </td>
-    <td width="70%">
-      <h4>⚡ Autonomous Attacker</h4>
-      <p>Advanced Wi-Fi penetration test suite with PyQt6 desktop GUI and LLM-powered agents</p>
-      <code>Python</code> <code>PyQt6</code> <code>Kali</code> <code>LLM</code>
-    </td>
-  </tr>
-
-  <tr><td colspan="2"><hr/></td></tr>
-  <tr>
-    <td width="30%">
-      <img src="https://raw.githubusercontent.com/abdo342003/abdo342003/main/ecologix-hero.webp" alt="Ecologix" width="100%"/>
-    </td>
-    <td width="70%">
-      <h4>🌿 Ecologix</h4>
-      <p>Eco-friendly digital solution with modern web stack</p>
-      <code>Astro</code> <code>Tailwind</code>
-    </td>
-  </tr>
-
+<tr>
+<td width="30%">
+<img src="https://raw.githubusercontent.com/abdo342003/abdo342003/main/attacker-preview.png" alt="Autonomous Attacker" width="100%"/>
+</td>
+<td width="70%">
+<h4>⚡ Autonomous Attacker <em>— flagship project, 124k lines of code</em></h4>
+<p>Offensive, automated <strong>Wi-Fi auditing suite</strong>: PyQt6 desktop application + Rich CLI, <strong>97 modules</strong> covering Wi-Fi 7/MLO, WPA3-SAE, an ESP32 swarm, LLM/RL agents, Scapy and hashcat (GPU speed-up ×170).</p>
+<p>Engineering quality: <strong>1,762 automated tests</strong>, mypy + ruff, documented CVE watch (2024–2026), and a <strong>scope gate that blocks any action outside the authorized perimeter</strong>.</p>
+<code>Python</code> <code>PyQt6</code> <code>Scapy</code> <code>hashcat</code> <code>ESP32</code> <code>Kali</code>
+</td>
+</tr>
+<tr><td colspan="2"><hr/></td></tr>
+<tr>
+<td width="30%">
+<img src="https://raw.githubusercontent.com/abdo342003/abdo342003/main/exploit-ai-dashboard.png" alt="Exploit AI Dashboard" width="100%"/>
+</td>
+<td width="70%">
+<h4>🛡️ Exploit AI</h4>
+<p>AI-assisted <strong>penetration testing orchestration</strong>: a <strong>Neo4j graph correlating CVE, CPE, CWE and MITRE ATT&amp;CK</strong>, with LLM agents for triage and reporting, running against a sandboxed Kali environment.</p>
+<p>Measured result: <strong>audit time cut from 45 days to 7 (−85%)</strong>. Presented at the EMSI Inventors Cup (2nd edition).</p>
+<code>FastAPI</code> <code>Neo4j</code> <code>Celery/Redis</code> <code>Docker</code> <code>Next.js</code> <code>Python</code>
+<br/><br/>
+<a href="https://www.loom.com/share/10c55ac2901e4a3095209fcbe1926705"><img src="https://img.shields.io/badge/%E2%96%B6_Watch_Demo-6C5CE7?style=flat-square&logo=loom&logoColor=white" alt="Watch demo"/></a>
+</td>
+</tr>
+<tr><td colspan="2"><hr/></td></tr>
+<tr>
+<td width="30%">
+<img src="https://raw.githubusercontent.com/abdo342003/abdo342003/main/ot-shield-preview.png" alt="OT_Shield" width="100%"/>
+</td>
+<td width="70%">
+<h4>🏭 OT_Shield <em>— ongoing</em></h4>
+<p><strong>Intrusion detection &amp; prevention system for a critical-infrastructure digital twin</strong>: deep packet inspection of OPC UA traffic (Scapy), dedicated Suricata rules for OT protocols, event correlation in the Elastic Stack.</p>
+<p>Test bench built on a <strong>PLC digital twin in TIA Portal V19</strong>, segmented into <strong>zones and conduits following the IEC 62443 model</strong>.</p>
+<code>OPC UA</code> <code>Scapy</code> <code>Suricata</code> <code>Elastic Stack</code> <code>TIA Portal V19</code> <code>IEC 62443</code>
+</td>
+</tr>
 </table>
-
+​
 <details>
-<summary><strong>📦 More Projects</strong></summary>
-
+<summary><strong>📦 More projects</strong></summary>
+​
 | Project | Description | Stack |
 |:---|:---|:---|
-| **OT_Shield** | OT/ICS intrusion detection & prevention system | OPC UA · Suricata · Elastic |
-| **Cyber Roadmap Planner** | Desktop app to organize cybersecurity learning roadmap and track progress | Python · Tkinter |
+| **Cyber Roadmap Planner** | Desktop app to organize a cybersecurity learning roadmap and track progress | Python · Tkinter |
 | **Blockchain Diploma Cert** | Ethereum-based diploma certification system | Solidity · Ethereum · Web3 |
-| **Bookmark Manager** | Web app to save, organize and find links quickly | Web · JavaScript |
-| **LaTeX Manager** | Professional desktop app for compiling and organizing LaTeX projects | Python · Tkinter |
+| **Ecologix** | Eco-friendly digital solution with a modern web stack | Astro · Tailwind |
 | **RevetPro** | Business website with local SEO | Astro · Tailwind CSS |
-
+| **LaTeX Manager** | Desktop app for compiling and organizing LaTeX projects | Python · Tkinter |
+| **Bookmark Manager** | Web app to save, organize and find links quickly | JavaScript |
+​
 </details>
-
+​
 ---
-
-## 📊 GitHub Stats
-
+​
+## ⚖️ Responsible use
+​
+Every offensive tool published here is built for **authorized security testing only**: laboratory environments, my own equipment, or engagements with written permission. Autonomous Attacker embeds a **scope gate** that refuses any target outside the declared perimeter. No client data, credential, audit report or production screenshot from my professional work is published in this account.
+​
+---
+​
+## 🛠️ Tech Arsenal
+​
+### 🔐 Security
+​
+| Offensive (red team) | Detection &amp; response (blue team) | OT / ICS |
+|:---|:---|:---|
+| Nmap, Burp Suite, OWASP Top 10 | Elastic Stack (SIEM), Suricata | OPC UA, Modbus |
+| Scapy, aircrack-ng, hashcat | Detection engineering, MITRE ATT&amp;CK | TIA Portal V19, PLC digital twin |
+| WPA3-SAE, Wi-Fi 7 / MLO, ESP32 / BLE | Wireshark, incident response, MTTD reduction | IEC 62443 zones &amp; conduits |
+​
+### 🌐 Systems &amp; networks
+​
+| Operating systems | Networking | Virtualization &amp; containers |
+|:---|:---|:---|
+| Linux (Ubuntu, Parrot, Kali) | Cisco, VLAN, GNS3 | VMware, Hyper-V |
+| Windows Server 2022 (AD, GPO) | pfSense, firewalling, segmentation | Docker |
+​
+### 💻 Development
+​
+| Languages | Backend &amp; frontend | Data &amp; tooling |
+|:---|:---|:---|
+| Python, C++, JavaScript | FastAPI, Celery/Redis, PyQt6 | Neo4j, PostgreSQL, MongoDB |
+| Bash | React, Next.js, Astro, Tailwind | Git, mypy, ruff, pytest |
+​
+---
+​
+## 🏆 Achievements
+​
+<table>
+<tr>
+<td width="45%">
+<img src="https://raw.githubusercontent.com/abdo342003/abdo342003/main/eic-v2-group.jpg" alt="EMSI Inventors Cup, 2nd edition" width="100%"/>
+</td>
+<td width="55%">
+<h4>🥉 3rd place — EMSI Inventors Cup (2nd edition)</h4>
+<p>Presented <strong>Exploit AI</strong> — AI-assisted pentest orchestration — as a two-person team.</p>
+<p>📅 May 2026 &nbsp;·&nbsp; 📍 EMSI Casablanca</p>
+</td>
+</tr>
+<tr><td colspan="2"><hr/></td></tr>
+<tr>
+<td width="45%">
+<img src="https://raw.githubusercontent.com/abdo342003/abdo342003/main/hackdays-group.jpg" alt="Hack'Days bootcamp" width="100%"/>
+</td>
+<td width="55%">
+<h4>💡 Hack'Days bootcamp — UEMF Fès</h4>
+<p>Built and pitched <strong>Exploit AI</strong> in 48 hours; ranked team.</p>
+<p>📅 May 2026 &nbsp;·&nbsp; 📍 Université Euromed de Fès</p>
+</td>
+</tr>
+</table>
+​
+---
+​
+## 🎓 Education &amp; certifications
+​
+- **EMSI Casablanca** — State Engineering Degree, Cybersecurity &amp; Network Infrastructure (2023 – 2027) — *currently in the 5th and final year*
+- **ISFO – OFPPT** — Specialized Technician in Digital Infrastructure (2022 – 2024) — **valedictorian**
+- **NDG Linux Unhatched** — Cisco Networking Academy (2023)
+- **The Unix Workbench** — Johns Hopkins University (2025)
+- Additional coursework: C++ (LearnQuest), JavaScript, Google &amp; Meta professional certificates, EPFL
+​
+**Hands-on practice** (not certifications): TryHackMe, PortSwigger Web Security Academy, OWASP methodology.
+​
 <p align="center">
-  <img width="49%" src="https://github-stats.vercel.app/api?username=abdo342003&theme=tokyonight&hide_border=true" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=abdo342003&theme=tokyonight&hide_border=true" />
+<a href="https://portswigger.net/web-security"><img src="https://img.shields.io/badge/PortSwigger%20Web%20Security%20Academy-FF6633?style=flat-square&logo=portswigger&logoColor=white"/></a>
+<a href="https://owasp.org/"><img src="https://img.shields.io/badge/OWASP-000000?style=flat-square&logo=owasp&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Cisco-NDG%20Linux%20Unhatched-1BA0D7?style=flat-square&logo=cisco&logoColor=white"/>
+<img src="https://img.shields.io/badge/Johns%20Hopkins-The%20Unix%20Workbench-002D72?style=flat-square&logo=coursera&logoColor=white"/>
 </p>
-
-## 🏆 Trophies
-
+​
+---
+​
+## 📚 Currently learning
+​
 <p align="center">
-  <img src="https://github-profile-trophy-alpha.vercel.app/?username=abdo342003&theme=algolia&no-frame=true&column=7" />
+<img src="https://img.shields.io/badge/Threat-Hunting-FF6633?style=for-the-badge&logo=elastic&logoColor=white"/>
+<img src="https://img.shields.io/badge/Zero_Trust-Architecture-EA4335?style=for-the-badge&logo=cloudflare&logoColor=white"/>
+<img src="https://img.shields.io/badge/Advanced-LLM_Agents-6C5CE7?style=for-the-badge&logo=openai&logoColor=white"/>
 </p>
-
-## 📈 Contribution Activity
-
+​
+---
+​
+<!-- Keep at most these two widgets. Trophies, streak counters, profile-view counters
+     and the snake animation add noise and often render as broken images. -->
 <p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=abdo342003&theme=tokyo-night&hide_border=true&area=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=abdo342003&show_icons=true&theme=tokyonight&hide_border=true&hide=issues" alt="GitHub stats" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdo342003&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 </p>
-
-<!-- Snake animation (needs the GitHub Action below — see guide) -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/abdo342003/abdo342003/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-</p>
-
-<!-- ============ FOOTER ============ -->
+​
 <hr/>
-<p align="center"><strong>Pentest · SOC · OT/ICS Security 🚀</strong></p>
+<p align="center"><strong>Penetration testing · SOC · OT/ICS security</strong><br/>
+<a href="mailto:abdellaherraoui3@gmail.com">abdellaherraoui3@gmail.com</a> · +212 7 70 70 76 86 · Casablanca, Morocco</p>
+​
