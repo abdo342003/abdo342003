@@ -208,8 +208,8 @@ Every offensive tool published here is built for **authorized security testing o
 <!-- Keep at most these two widgets. Trophies, streak counters, profile-view counters
      and the snake animation add noise and often render as broken images. -->
 <p align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=abdo342003&show_icons=true&theme=tokyonight&hide_border=true&hide=issues" alt="GitHub stats" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdo342003&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=abdo342003&show_icons=true&theme=tokyonight&hide_border=true&hide=issues" alt="GitHub stats" />
+<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=abdo342003&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 </p>
 
 <hr/>
