@@ -35,7 +35,6 @@ I am not only a student: I work **part-time as a Cybersecurity &amp; Penetration
 |:---|:---|:---|
 | **Mar 2025 – present** | **Cybersecurity &amp; Pentest Consultant** (part-time) — Fifty Five Digital | Black-box web penetration tests (OWASP): WAF bypass, exposed admin interfaces, production misconfigurations, with remediation plans. SOC monitoring and incident response on the **Elastic Stack**: detection rules, Suricata, Wireshark, reduced MTTD. |
 | **2026** | **Responsible disclosure** — EMSI infrastructure | Reported a critical vulnerability on my school's infrastructure and worked with the IT department through to the fix. |
-| **2026 – present** | **Co-founder &amp; developer** — Flintlock Studio (freelance activity, two-person team) | 6 web projects delivered, security-by-design and application hardening (OWASP). |
 | **Apr – May 2024** | **IT Infrastructure Intern** — ISCAE | Windows Server 2022 deployment (Active Directory, GPO) and VLAN segmentation to isolate critical flows. |
 ​
 ---
