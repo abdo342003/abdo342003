@@ -41,8 +41,6 @@ I am not only a student: I work **part-time as a Cybersecurity &amp; Penetration
 
 ## 📄 Resume / CV
 
-<!-- Upload the two current PDFs to this repository, then delete the old CV files.
-     Current files: CV_Abdellah_ERRAOUI_Cyber_Pentest_PFE_2027_EN.pdf / _FR.pdf -->
 <p align="center">
 <a href="https://github.com/abdo342003/abdo342003/raw/main/CV_Abdellah_ERRAOUI_Cyber_Pentest_PFE_2027_EN.pdf">
 <img src="https://img.shields.io/badge/CV%20—%20English-6C5CE7?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="CV in English" />
