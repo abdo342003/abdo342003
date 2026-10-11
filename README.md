@@ -1,11 +1,11 @@
 <!-- ============ HEADER ============ -->
 <h1 align="center">Abdellah ERRAOUI</h1>
 <h3 align="center">Final-year Cybersecurity &amp; Network Engineering Student @ EMSI Casablanca</h3>
-<p align="center">Penetration testing &nbsp;·&nbsp; SOC &amp; detection engineering &nbsp;·&nbsp; OT/ICS security</p>
+<p align="center">Penetration testing &nbsp;·&nbsp; SOC &amp; detection &nbsp;·&nbsp; Digital forensics (DFIR)</p>
 
 <!-- ============ AVAILABILITY + CONTACT ============ -->
 <p align="center">
-<img src="https://img.shields.io/badge/Open%20to%20a%206--month%20final--year%20internship%20(PFE)-Jan%20%2F%20Feb%202027-2EA44F?style=for-the-badge&logo=hackthebox&logoColor=white" alt="Open to a 6-month final-year internship, January or February 2027" />
+<img src="https://img.shields.io/badge/Open%20to%20a%206--month%20final--year%20internship%20(PFE)-February%202027-2EA44F?style=for-the-badge&logo=hackthebox&logoColor=white" alt="Open to a 6-month final-year internship, February 2027" />
 </p>
 <p align="center">
 <a href="https://www.linkedin.com/in/abdellah-erraoui-153137280/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -19,13 +19,14 @@
 
 **Final-year (5th year)** engineering student at **EMSI Casablanca**, majoring in *Cybersecurity &amp; Network Infrastructure* — State Engineering Degree expected in **2027**, member of the **LPRI** research laboratory.
 
-I am not only a student: I work **part-time as a Cybersecurity &amp; Penetration Testing Consultant at Fifty Five Digital** (since March 2025), where I run black-box web audits (OWASP) and SOC monitoring on the Elastic Stack for real clients.
+I am not only a student: I completed **two internship periods as a Web Penetration Testing &amp; SOC Analyst at Fifty Five Digital** (Mar–Aug 2025 and Jan–Aug 2026 — 14 months), running black-box web audits (OWASP) for real clients and working SOC alerts on the Elastic Stack.
 
 - 🛡️ Author of **Autonomous Attacker** — an offensive Wi-Fi auditing suite: 97 modules, 1,762 automated tests, built-in scope enforcement
 - 🧠 Author of **Exploit AI** — AI-assisted pentest orchestration on a Neo4j CVE / CWE / MITRE ATT&amp;CK graph: audit time cut from 45 days to 7
-- 🏭 Building **OT_Shield** — an IDPS for an industrial digital twin (OPC UA, Suricata, Elastic, IEC 62443 zones &amp; conduits)
-- 🌍 Working languages: **Arabic (native) · French (C1) · English (C1)**
-- 🎯 Looking for a **6-month final-year internship starting January or February 2027** — internship agreement provided by EMSI, open to relocation (France &amp; international)
+- 🥇 **1st place — KASBAH national digital-forensics exercise** (EMSI × CyberSup, 648 students): investigation of the "MIRAGE" ransomware
+- 🧪 **OT_Shield** (lab project) — an IDPS for an industrial digital twin (OPC UA, Suricata, Elastic)
+- 🌍 Working languages: **Arabic (native) · French (B2) · English (B2)**
+- 🎯 Looking for a **6-month final-year internship starting February 2027** — three-party internship agreement provided by EMSI, open to relocation (France &amp; international)
 
 ---
 
@@ -33,8 +34,8 @@ I am not only a student: I work **part-time as a Cybersecurity &amp; Penetration
 
 | Period | Role | What I actually did |
 |:---|:---|:---|
-| **Mar 2025 – present** | **Cybersecurity &amp; Pentest Consultant** (part-time) — Fifty Five Digital | Black-box web penetration tests (OWASP): WAF bypass, exposed admin interfaces, production misconfigurations, with remediation plans. SOC monitoring and incident response on the **Elastic Stack**: detection rules, Suricata, Wireshark, reduced MTTD. |
-| **2026** | **Responsible disclosure** — EMSI infrastructure | Reported a critical vulnerability on my school's infrastructure and worked with the IT department through to the fix. |
+| **Mar – Aug 2025 · Jan – Aug 2026** (14 months) | **Web Penetration Testing &amp; SOC Analyst Intern** — Fifty Five Digital | Black-box web penetration tests (OWASP) on high-traffic client websites: Nmap scanning, remediation plans under NDA; Windows Server / AD hardening (GPOs, logging). SOC on the **Elastic Stack**: alert triage, Windows / network / application log analysis, Wireshark traffic analysis, Suricata signature management (SIDs) — fixed an IPS false positive that blocked client updates (Pass List). |
+| **Jan – Jul 2026** | **Responsible disclosure &amp; pentest — EMSI infrastructure** | External black-box test of the EMSI student portal (CampuSphere SIS): OSINT, Azure AD user enumeration (ROPC), API analysis (1,100+ Swagger endpoints), CORS / DMARC tests — **13 vulnerabilities (4 critical, 5 high)**. Delivered a confidential 20-page report and followed up the remediation with the IT department. |
 | **Apr – May 2024** | **IT Infrastructure Intern** — ISCAE | Windows Server 2022 deployment (Active Directory, GPO) and VLAN segmentation to isolate critical flows. |
 
 ---
@@ -80,22 +81,6 @@ I am not only a student: I work **part-time as a Cybersecurity &amp; Penetration
 <a href="https://www.loom.com/share/10c55ac2901e4a3095209fcbe1926705"><img src="https://img.shields.io/badge/%E2%96%B6_Watch_Demo-6C5CE7?style=flat-square&logo=loom&logoColor=white" alt="Watch demo"/></a>
 </td>
 </tr>
-<tr><td colspan="2"><hr/></td></tr>
-<tr>
-<td width="30%">
-<div align="center" style="background:#161b22; border:1px solid #30363d; border-radius:8px; padding:28px 12px; text-align:center;">
-  <div style="font-size:42px;">🏭</div>
-  <div style="font-weight:600; margin-top:8px;">OT_Shield</div>
-  <div style="font-size:12px; color:#8b949e; margin-top:4px;">PLC Digital Twin<br/>IEC 62443 • OPC UA</div>
-</div>
-</td>
-<td width="70%">
-<h4>🏭 OT_Shield <em>— ongoing</em></h4>
-<p><strong>Intrusion detection &amp; prevention system for a critical-infrastructure digital twin</strong>: deep packet inspection of OPC UA traffic (Scapy), dedicated Suricata rules for OT protocols, event correlation in the Elastic Stack.</p>
-<p>Test bench built on a <strong>PLC digital twin in TIA Portal V19</strong>, segmented into <strong>zones and conduits following the IEC 62443 model</strong>.</p>
-<code>OPC UA</code> <code>Scapy</code> <code>Suricata</code> <code>Elastic Stack</code> <code>TIA Portal V19</code> <code>IEC 62443</code>
-</td>
-</tr>
 </table>
 
 <details>
@@ -103,6 +88,7 @@ I am not only a student: I work **part-time as a Cybersecurity &amp; Penetration
 
 | Project | Description | Stack |
 |:---|:---|:---|
+| **OT_Shield** *(lab, ongoing)* | IDPS for an industrial digital twin — OPC UA deep packet inspection, Suricata rules for OT protocols, Elastic correlation, IEC 62443 zones &amp; conduits on a TIA Portal V19 PLC twin | OPC UA · Scapy · Suricata · Elastic |
 | **Cyber Roadmap Planner** | Desktop app to organize a cybersecurity learning roadmap and track progress | Python · Tkinter |
 | **Blockchain Diploma Cert** | Ethereum-based diploma certification system | Solidity · Ethereum · Web3 |
 | **Ecologix** | Eco-friendly digital solution with a modern web stack | Astro · Tailwind |
@@ -124,11 +110,14 @@ Every offensive tool published here is built for **authorized security testing o
 
 ### 🔐 Security
 
-| Offensive (red team) | Detection &amp; response (blue team) | OT / ICS |
-|:---|:---|:---|
-| Nmap, Burp Suite, OWASP Top 10 | Elastic Stack (SIEM), Suricata | OPC UA, Modbus |
-| Scapy, aircrack-ng, hashcat | Detection engineering, MITRE ATT&amp;CK | TIA Portal V19, PLC digital twin |
-| WPA3-SAE, Wi-Fi 7 / MLO, ESP32 / BLE | Wireshark, incident response, MTTD reduction | IEC 62443 zones &amp; conduits |
+| Offensive (red team) | Detection, forensics &amp; response (blue team) |
+|:---|:---|
+| Nmap, Burp Suite, OWASP Testing Guide | Elastic Stack (SIEM), Wazuh (SIEM/XDR) |
+| Scapy, aircrack-ng, hashcat | Suricata, Snort, Wireshark |
+| OSINT, API testing, CORS / DMARC | Digital forensics, MITRE ATT&amp;CK, incident response |
+| WPA3-SAE, Wi-Fi 7 / MLO, ESP32 / BLE | Vulnerability management, audit reporting, responsible disclosure |
+
+<sub>**OT/ICS exposure (lab project — OT_Shield):** OPC UA deep packet inspection with Scapy, Suricata rules for OT protocols, Elastic correlation, IEC 62443 zones &amp; conduits on a TIA Portal V19 PLC digital twin.</sub>
 
 ### 🌐 Systems &amp; networks
 
@@ -149,6 +138,21 @@ Every offensive tool published here is built for **authorized security testing o
 ## 🏆 Achievements
 
 <table>
+<tr>
+<td width="45%">
+<div align="center" style="background:#161b22; border:1px solid #30363d; border-radius:8px; padding:36px 12px; text-align:center;">
+  <div style="font-size:42px;">🥇</div>
+  <div style="font-weight:600; margin-top:8px;">KASBAH 2026</div>
+  <div style="font-size:12px; color:#8b949e; margin-top:4px;">Digital Forensics<br/>EMSI × CyberSup</div>
+</div>
+</td>
+<td width="55%">
+<h4>🥇 1st place — KASBAH National Exercise, Digital Forensics</h4>
+<p>Member of the EMSI digital-forensics team: investigation of the <strong>"MIRAGE" ransomware</strong>, competing against teams from Rabat, Marrakech and Tangier — <strong>648 students</strong>.</p>
+<p>📅 Sep 2026 &nbsp;·&nbsp; 📍 EMSI Casablanca &nbsp;·&nbsp; 🤝 EMSI × CyberSup</p>
+</td>
+</tr>
+<tr><td colspan="2"><hr/></td></tr>
 <tr>
 <td width="45%">
 <img src="https://raw.githubusercontent.com/abdo342003/abdo342003/main/eic-v2-group.jpg" alt="EMSI Inventors Cup, 2nd edition" width="100%"/>
@@ -176,11 +180,25 @@ Every offensive tool published here is built for **authorized security testing o
 
 ## 🎓 Education &amp; certifications
 
-- **EMSI Casablanca** — State Engineering Degree, Cybersecurity &amp; Network Infrastructure (2023 – 2027) — *currently in the 5th and final year*
+- **EMSI Casablanca** — State Engineering Degree, Cybersecurity &amp; Network Infrastructure (2024 – 2027) — *currently in the 5th and final year*
 - **ISFO – OFPPT** — Specialized Technician in Digital Infrastructure (2022 – 2024) — **valedictorian**
-- **NDG Linux Unhatched** — Cisco Networking Academy (2023)
-- **The Unix Workbench** — Johns Hopkins University (2025)
-- Additional coursework: C++ (LearnQuest), JavaScript, Google &amp; Meta professional certificates, EPFL
+- **Baccalaureate, Physical Sciences** — Othmane Ben Affane High School, French international option (BIOF) (2020 – 2021)
+
+**Certifications &amp; job simulations** — each one verifiable:
+
+| Credential | Issuer | Date |
+|:---|:---|:---|
+| Cybersecurity Job Simulation — phishing design &amp; results analysis | **Mastercard** (Forage) | Oct 2026 |
+| Agile Project Management | **Google** (Coursera) | May 2026 |
+| Fundamentals of Blockchain Architecture | **LearnQuest** (Coursera) | May 2026 |
+| React Basics | **Meta** (Coursera) | Dec 2025 |
+| The Unix Workbench | **Johns Hopkins University** (Coursera) | Jan 2025 |
+| Introduction to Object-Oriented Programming (C++) | **EPFL** (Coursera) | Jan 2025 |
+| Interactivity with JavaScript | **University of Michigan** (Coursera) | Jan 2025 |
+| Successful Negotiation: Essential Strategies &amp; Skills | **University of Michigan** (Coursera) | Jan 2025 |
+| NDG Linux Unhatched | **Cisco Networking Academy** | 2023 |
+
+**In progress:** Hack The Box Academy — SOC Analyst (CDSA prep) &amp; Junior Cybersecurity Analyst (CJCA) · Oracle Cloud Infrastructure (OCI) Professional.
 
 **Hands-on practice** (not certifications): TryHackMe, PortSwigger Web Security Academy, OWASP methodology.
 
@@ -199,6 +217,8 @@ Every offensive tool published here is built for **authorized security testing o
 <img src="https://img.shields.io/badge/Threat-Hunting-FF6633?style=for-the-badge&logo=elastic&logoColor=white"/>
 <img src="https://img.shields.io/badge/Zero_Trust-Architecture-EA4335?style=for-the-badge&logo=cloudflare&logoColor=white"/>
 <img src="https://img.shields.io/badge/Advanced-LLM_Agents-6C5CE7?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTB-SOC_Analyst_(CDSA)_in_progress-6C5CE7?style=for-the-badge&logo=hackthebox&logoColor=white"/>
+<img src="https://img.shields.io/badge/Oracle-OCI_Professional_in_progress-C74634?style=for-the-badge&logo=oracle&logoColor=white"/>
 </p>
 
 ---
@@ -211,5 +231,5 @@ Every offensive tool published here is built for **authorized security testing o
 </p>
 
 <hr/>
-<p align="center"><strong>Penetration testing · SOC · OT/ICS security</strong><br/>
+<p align="center"><strong>Penetration testing · SOC · DFIR</strong><br/>
 <a href="mailto:abdellaherraoui3@gmail.com">abdellaherraoui3@gmail.com</a> · +212 7 70 70 76 86 · Casablanca, Morocco</p>
