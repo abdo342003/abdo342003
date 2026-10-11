@@ -123,7 +123,7 @@ Every offensive tool published here is built for **authorized security testing o
 
 | Operating systems | Networking | Virtualization &amp; containers |
 |:---|:---|:---|
-| Linux (Ubuntu, Parrot, Kali) | Cisco, VLAN, GNS3 | VMware, Hyper-V |
+| Linux (Ubuntu, Parrot, Kali, **Fedora Server**, **RHEL**) | Cisco, VLAN, GNS3 | VMware, Hyper-V |
 | Windows Server 2022 (AD, GPO) | pfSense, firewalling, segmentation | Docker |
 
 ### 💻 Development
