@@ -5,7 +5,7 @@
 
 <!-- ============ AVAILABILITY + CONTACT ============ -->
 <p align="center">
-<img src="https://img.shields.io/badge/Open%20to%20a%206--month%20final--year%20internship%20(PFE)-February%202027-2EA44F?style=for-the-badge&logo=hackthebox&logoColor=white" alt="Open to a 6-month final-year internship, February 2027" />
+<img src="https://img.shields.io/badge/Open%20to%20a%206--month%20final--year%20internship%20(PFE)-February%202027-2EA44F?style=for-the-badge&logo=hackthebox&logoColor=white" alt="Open to a 6-month PFE (final-year internship), February 2027" />
 </p>
 <p align="center">
 <a href="https://www.linkedin.com/in/abdellah-erraoui-153137280/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -26,7 +26,7 @@ I am not only a student: I completed **two internship periods as a Web Penetrati
 - 🥇 **1st place — KASBAH national digital-forensics exercise** (EMSI × CyberSup, 648 students): investigation of the "MIRAGE" ransomware
 - 🧪 **OT_Shield** (lab project) — an IDPS for an industrial digital twin (OPC UA, Suricata, Elastic)
 - 🌍 Working languages: **Arabic (native) · French (B2) · English (B2)**
-- 🎯 Looking for a **6-month final-year internship starting February 2027** — three-party internship agreement provided by EMSI, open to relocation (France &amp; international)
+- 🎯 Looking for a **6-month PFE (final-year internship) starting February 2027** — three-party internship agreement provided by EMSI, open to relocation (France &amp; international)
 
 ---
 
@@ -218,10 +218,10 @@ Every offensive tool published here is built for **authorized security testing o
 **Hands-on practice** (not certifications): TryHackMe, PortSwigger Web Security Academy, OWASP methodology.
 
 <p align="center">
-<a href="https://portswigger.net/web-security"><img src="https://img.shields.io/badge/PortSwigger%20Web%20Security%20Academy-FF6633?style=flat-square&logo=portswigger&logoColor=white"/></a>
-<a href="https://owasp.org/"><img src="https://img.shields.io/badge/OWASP-000000?style=flat-square&logo=owasp&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Cisco-NDG%20Linux%20Unhatched-1BA0D7?style=flat-square&logo=cisco&logoColor=white"/>
-<img src="https://img.shields.io/badge/Johns%20Hopkins-The%20Unix%20Workbench-002D72?style=flat-square&logo=coursera&logoColor=white"/>
+<a href="https://portswigger.net/web-security"><img src="https://img.shields.io/badge/PortSwigger%20Web%20Security%20Academy-FF6633?style=flat-square&logo=portswigger&logoColor=white" alt="PortSwigger Web Security Academy"/></a>
+<a href="https://owasp.org/"><img src="https://img.shields.io/badge/OWASP-000000?style=flat-square&logo=owasp&logoColor=white" alt="OWASP"/></a>
+<img src="https://img.shields.io/badge/Cisco-NDG%20Linux%20Unhatched-1BA0D7?style=flat-square&logo=cisco&logoColor=white" alt="Cisco NDG Linux Unhatched"/>
+<img src="https://img.shields.io/badge/Johns%20Hopkins-The%20Unix%20Workbench-002D72?style=flat-square&logo=coursera&logoColor=white" alt="Johns Hopkins — The Unix Workbench"/>
 </p>
 
 ---
@@ -229,11 +229,11 @@ Every offensive tool published here is built for **authorized security testing o
 ## 📚 Currently learning
 
 <p align="center">
-<img src="https://img.shields.io/badge/Threat-Hunting-FF6633?style=for-the-badge&logo=elastic&logoColor=white"/>
-<img src="https://img.shields.io/badge/Zero_Trust-Architecture-EA4335?style=for-the-badge&logo=cloudflare&logoColor=white"/>
-<img src="https://img.shields.io/badge/Advanced-LLM_Agents-6C5CE7?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTB-SOC_Analyst_(CDSA)_in_progress-6C5CE7?style=for-the-badge&logo=hackthebox&logoColor=white"/>
-<img src="https://img.shields.io/badge/Oracle-OCI_Professional_in_progress-C74634?style=for-the-badge&logo=oracle&logoColor=white"/>
+<img src="https://img.shields.io/badge/Threat-Hunting-FF6633?style=for-the-badge&logo=elastic&logoColor=white" alt="Threat Hunting"/>
+<img src="https://img.shields.io/badge/Zero_Trust-Architecture-EA4335?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Zero Trust Architecture"/>
+<img src="https://img.shields.io/badge/Advanced-LLM_Agents-6C5CE7?style=for-the-badge&logo=openai&logoColor=white" alt="Advanced LLM Agents"/>
+<img src="https://img.shields.io/badge/HTB-SOC_Analyst_(CDSA)_in_progress-6C5CE7?style=for-the-badge&logo=hackthebox&logoColor=white" alt="HTB SOC Analyst (CDSA) in progress"/>
+<img src="https://img.shields.io/badge/Oracle-OCI_Professional_in_progress-C74634?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle OCI Professional in progress"/>
 </p>
 
 ---
