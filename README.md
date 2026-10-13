@@ -81,6 +81,21 @@ I am not only a student: I completed **two internship periods as a Web Penetrati
 <a href="https://www.loom.com/share/10c55ac2901e4a3095209fcbe1926705"><img src="https://img.shields.io/badge/%E2%96%B6_Watch_Demo-6C5CE7?style=flat-square&logo=loom&logoColor=white" alt="Watch demo"/></a>
 </td>
 </tr>
+<tr><td colspan="2"><hr/></td></tr>
+<tr>
+<td width="30%">
+<img src="https://raw.githubusercontent.com/abdo342003/abdo342003/main/parrot-janitor-preview.png" alt="Parrot Janitor — Processes tab" width="100%"/>
+</td>
+<td width="70%">
+<h4>🦜 Parrot Janitor <em>— open source (MIT), packaged as a .deb</em></h4>
+<p>Qt (<strong>PySide6</strong>) desktop janitor for <strong>Parrot OS</strong>: runaway process killer (sustained-CPU detection with plain-English process descriptions), resource monitor, <strong>port exposure checker</strong> — every listener classified by a real TLS handshake or protocol banner — plus Docker lab control, btrfs snapshots and disk cleanup. Root actions go through <strong>polkit, never sudo</strong>.</p>
+<p><strong>3,340 lines</strong> in a single file, Debian packaging (man page, maintainer scripts) and a <strong>v1.0.0 release</strong>. Its Ports tab found genuine exposures on my own machine: <strong>RDP open on all interfaces</strong> and an <strong>unauthenticated Ollama API</strong>.</p>
+<code>Python</code> <code>PySide6</code> <code>Qt</code> <code>polkit</code> <code>btrfs</code> <code>Docker</code> <code>Debian packaging</code>
+<br/><br/>
+<a href="https://github.com/abdo342003/ParrotJanitor"><img src="https://img.shields.io/badge/GitHub-ParrotJanitor-181717?style=flat-square&logo=github&logoColor=white" alt="github.com/abdo342003/ParrotJanitor"/></a>
+<a href="https://github.com/abdo342003/ParrotJanitor/releases/tag/v1.0.0"><img src="https://img.shields.io/badge/release-v1.0.0-2EA44F?style=flat-square&logo=github&logoColor=white" alt="Release v1.0.0"/></a>
+</td>
+</tr>
 </table>
 
 <details>
