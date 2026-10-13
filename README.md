@@ -25,6 +25,7 @@ I am not only a student: I completed **two internship periods as a Web Penetrati
 - 🧠 Author of **Exploit AI** — AI-assisted pentest orchestration on a Neo4j CVE / CWE / MITRE ATT&amp;CK graph: audit time cut from 45 days to 7
 - 🥇 **1st place — KASBAH national digital-forensics exercise** (EMSI × CyberSup, 648 students): investigation of the "MIRAGE" ransomware
 - 🧪 **OT_Shield** (lab project) — an IDPS for an industrial digital twin (OPC UA, Suricata, Elastic)
+- 🤝 **Open-source contributor to flagship security projects** — **merged PR in [projectdiscovery/nuclei-templates](https://github.com/projectdiscovery/nuclei-templates/pull/17394)** (MikroTik WinBox TCP/8291 detection + CVE-2024-54772 templates); three PRs at **SigmaHQ/sigma**, one at **nmap** and one at **volatility3** under review
 - 🌍 Working languages: **Arabic (native) · French (B2) · English (B2)**
 - 🎯 Looking for a **6-month PFE (final-year internship) starting February 2027** — three-party internship agreement provided by EMSI, open to relocation (France &amp; international)
 
