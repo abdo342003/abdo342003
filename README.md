@@ -21,6 +21,18 @@
 
 Two internship periods as a **Web Penetration Testing &amp; SOC Analyst at Fifty Five Digital** (14 months total): black-box web audits (OWASP) for real clients and SOC alert triage on the Elastic Stack.
 
+<p align="center"><img src="https://skillicons.dev/icons?i=python,docker,linux,git,bash,github,gitlab,vscode,react,nextjs,fastapi" alt="Python · Docker · Linux · Git · Bash · GitHub · GitLab · VS Code · React · Next.js · FastAPI" /></p>
+<p align="center">
+<img src="https://img.shields.io/badge/Nmap-2F8F4E?style=flat-square&logoColor=white" alt="Nmap" />
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" alt="Wireshark" />
+<img src="https://img.shields.io/badge/Suricata-A62B2B?style=flat-square&logoColor=white" alt="Suricata" />
+<img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square&logoColor=white" alt="Burp Suite" />
+<img src="https://img.shields.io/badge/Elastic-005571?style=flat-square&logo=elastic&logoColor=white" alt="Elastic Stack (SIEM)" />
+<img src="https://img.shields.io/badge/SigmaHQ-3D5A80?style=flat-square&logoColor=white" alt="SigmaHQ — Sigma detection rules" />
+<img src="https://img.shields.io/badge/Parrot%20OS-2FA37C?style=flat-square&logoColor=white" alt="Parrot OS" />
+<img src="https://img.shields.io/badge/Kali%20Linux-557C00?style=flat-square&logo=kalilinux&logoColor=white" alt="Kali Linux" />
+</p>
+
 - 🛡️ Author of **Autonomous Attacker** (offensive Wi-Fi auditing suite — 97 modules, 1,762 automated tests) and **Exploit AI** (AI pentest orchestration — audit time cut from 45 days to 7)
 - 🥇 **1st place — KASBAH** national digital-forensics exercise (EMSI × CyberSup, 648 students)
 - 🧪 **OT_Shield** — an IDPS for an industrial digital twin (lab project: OPC UA, Suricata, Elastic)
@@ -229,11 +241,11 @@ Every offensive tool published here is built for **authorized security testing o
 ## 📚 Currently learning
 
 <p align="center">
-<img src="https://img.shields.io/badge/Threat-Hunting-FF6633?style=for-the-badge&logo=elastic&logoColor=white" alt="Threat Hunting"/>
-<img src="https://img.shields.io/badge/Zero_Trust-Architecture-EA4335?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Zero Trust Architecture"/>
-<img src="https://img.shields.io/badge/Advanced-LLM_Agents-6C5CE7?style=for-the-badge&logo=openai&logoColor=white" alt="Advanced LLM Agents"/>
-<img src="https://img.shields.io/badge/HTB-SOC_Analyst_(CDSA)_in_progress-6C5CE7?style=for-the-badge&logo=hackthebox&logoColor=white" alt="HTB SOC Analyst (CDSA) in progress"/>
-<img src="https://img.shields.io/badge/Oracle-OCI_Professional_in_progress-C74634?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle OCI Professional in progress"/>
+<img src="https://img.shields.io/badge/Threat-Hunting-FF6633?style=flat-square&logo=elastic&logoColor=white" alt="Threat Hunting"/>
+<img src="https://img.shields.io/badge/Zero_Trust-Architecture-EA4335?style=flat-square&logo=cloudflare&logoColor=white" alt="Zero Trust Architecture"/>
+<img src="https://img.shields.io/badge/Advanced-LLM_Agents-6C5CE7?style=flat-square&logo=openai&logoColor=white" alt="Advanced LLM Agents"/>
+<img src="https://img.shields.io/badge/HTB-SOC_Analyst_(CDSA)_in_progress-6C5CE7?style=flat-square&logo=hackthebox&logoColor=white" alt="HTB SOC Analyst (CDSA) in progress"/>
+<img src="https://img.shields.io/badge/Oracle-OCI_Professional_in_progress-C74634?style=flat-square&logo=oracle&logoColor=white" alt="Oracle OCI Professional in progress"/>
 </p>
 
 ---
