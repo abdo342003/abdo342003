@@ -88,7 +88,7 @@ Two internship periods as a **Web Penetration Testing &amp; SOC Analyst at Fifty
 </td>
 <td width="70%">
 <h4>🛡️ Exploit AI</h4>
-<p>AI-assisted <strong>penetration testing orchestration</strong>: a <strong>Neo4j graph correlating CVE, CPE, CWE and MITRE ATT&amp;CK</strong>, with LLM agents for triage and reporting, running against a sandboxed Kali environment.</p>
+<p><strong>Penetration testing orchestration</strong>: a <strong>Neo4j graph correlating CVE, CPE, CWE and MITRE ATT&amp;CK</strong>, with LLM agents for triage and reporting, running against a sandboxed Kali environment.</p>
 <p>Measured result: <strong>audit time cut from 45 days to 7 (−85%)</strong>. Presented at the EMSI Inventors Cup (2nd edition).</p>
 <code>FastAPI</code> <code>Neo4j</code> <code>Celery/Redis</code> <code>Docker</code> <code>Next.js</code> <code>Python</code>
 <br/><br/>
