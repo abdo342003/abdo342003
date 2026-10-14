@@ -17,11 +17,13 @@
 
 ## 👨‍💻 Profile
 
+🎯 **Open to a 6-month PFE (final-year internship) — February 2027** · three-party agreement provided by EMSI · open to relocation (France &amp; international)
+
 **Final-year (5th year)** engineering student at **EMSI Casablanca**, majoring in *Cybersecurity &amp; Network Infrastructure* — State Engineering Degree expected in **2027**.
 
 Two internship periods as a **Web Penetration Testing &amp; SOC Analyst at Fifty Five Digital** (14 months total): black-box web audits (OWASP) for real clients and SOC alert triage on the Elastic Stack.
 
-<p align="center"><img src="https://skillicons.dev/icons?i=python,docker,linux,git,bash,github,gitlab,vscode,react,nextjs,fastapi" alt="Python · Docker · Linux · Git · Bash · GitHub · GitLab · VS Code · React · Next.js · FastAPI" /></p>
+<p align="center"><img src="https://skillicons.dev/icons?i=python,docker,linux,bash,git,github,vscode" alt="Python · Docker · Linux · Bash · Git · GitHub · VS Code" /></p>
 <p align="center">
 <img src="https://img.shields.io/badge/Nmap-2F8F4E?style=flat-square&logoColor=white" alt="Nmap" />
 <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" alt="Wireshark" />
@@ -33,13 +35,12 @@ Two internship periods as a **Web Penetration Testing &amp; SOC Analyst at Fifty
 <img src="https://img.shields.io/badge/Kali%20Linux-557C00?style=flat-square&logo=kalilinux&logoColor=white" alt="Kali Linux" />
 </p>
 
+- 🤝 **Merged PRs in [projectdiscovery/nuclei-templates](https://github.com/projectdiscovery/nuclei-templates/pull/17394) (CVE-2024-54772) and [SigmaHQ/sigma](https://github.com/SigmaHQ/sigma/pulls?q=is%3Apr+author%3Aabdo342003)** — under review at nmap, volatility3
 - 🛡️ **Autonomous Attacker** — offensive Wi-Fi auditing suite
-- 🧠 **Exploit AI** — AI-assisted pentest orchestration
+- 🧠 **Exploit AI** — pentest orchestration platform
 - 🥇 **1st place — KASBAH** national digital-forensics exercise
 - 🧪 **OT_Shield** — IDPS for an industrial digital twin
-- 🤝 **Merged PRs** in [projectdiscovery/nuclei-templates](https://github.com/projectdiscovery/nuclei-templates/pull/17394) (CVE-2024-54772) &amp; [SigmaHQ/sigma](https://github.com/SigmaHQ/sigma/pulls?q=is%3Apr+author%3Aabdo342003) · under review at nmap, volatility3
 - 🌍 **Languages:** Arabic (native) · French (B2) · English (B2)
-- 🎯 **Open to a 6-month PFE (final-year internship) — February 2027** · three-party agreement via EMSI · open to relocation
 
 ---
 
