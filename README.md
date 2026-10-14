@@ -19,6 +19,8 @@
 
 🎯 **Open to a 6-month PFE (final-year internship) — February 2027** · three-party agreement provided by EMSI · open to relocation (France &amp; international)
 
+I genuinely **love pentesting and ethical hacking** — beyond coursework, my time goes to a home attack lab (Parrot OS + Docker), TryHackMe / PortSwigger practice and open-source security tools.
+
 **Final-year (5th year)** engineering student at **EMSI Casablanca**, majoring in *Cybersecurity &amp; Network Infrastructure* — State Engineering Degree expected in **2027**.
 
 Two internship periods as a **Web Penetration Testing &amp; SOC Analyst at Fifty Five Digital** (14 months total): black-box pentests on real client infrastructure — web (OWASP) and network (Nmap) — plus SOC on the **Elastic Stack**: alert triage, Wireshark traffic analysis and Suricata rule management.
