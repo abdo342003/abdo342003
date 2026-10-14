@@ -120,6 +120,8 @@ Two internship periods as a **Web Penetration Testing &amp; SOC Analyst at Fifty
 | Project | Description | Stack |
 |:---|:---|:---|
 | **OT_Shield** *(lab, ongoing)* | IDPS for an industrial digital twin — OPC UA deep packet inspection, Suricata rules for OT protocols, Elastic correlation, IEC 62443 zones &amp; conduits on a TIA Portal V19 PLC twin | OPC UA · Scapy · Suricata · Elastic |
+| **Network-Recon** | Cross-platform network discovery and web-assessment tooling for authorized lab environments | Python · Shell |
+| **OPC-UA-Simulator** | OPC UA simulator with security testing — scanner, anomaly detection, attack simulation — for OT teams | Python · Docker · PowerShell |
 | **Cyber Roadmap Planner** | Desktop app to organize a cybersecurity learning roadmap and track progress | Python · Tkinter |
 | **Blockchain Diploma Cert** | Ethereum-based diploma certification system | Solidity · Ethereum · Web3 |
 | **Ecologix** | Eco-friendly digital solution with a modern web stack | Astro · Tailwind |
