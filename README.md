@@ -24,7 +24,7 @@ Two internship periods as a **Web Penetration Testing &amp; SOC Analyst at Fifty
 - 🛡️ Author of **Autonomous Attacker** (offensive Wi-Fi auditing suite — 97 modules, 1,762 automated tests) and **Exploit AI** (AI pentest orchestration — audit time cut from 45 days to 7)
 - 🥇 **1st place — KASBAH** national digital-forensics exercise (EMSI × CyberSup, 648 students)
 - 🧪 **OT_Shield** — an IDPS for an industrial digital twin (lab project: OPC UA, Suricata, Elastic)
-- 🤝 **Merged upstream PR in [projectdiscovery/nuclei-templates](https://github.com/projectdiscovery/nuclei-templates/pull/17394)** (MikroTik WinBox / CVE-2024-54772) · under review at SigmaHQ/sigma (3 PRs), nmap, volatility3
+- 🤝 **Merged upstream PRs in [projectdiscovery/nuclei-templates](https://github.com/projectdiscovery/nuclei-templates/pull/17394)** (MikroTik WinBox / CVE-2024-54772) **and [SigmaHQ/sigma](https://github.com/SigmaHQ/sigma/pulls?q=is%3Apr+author%3Aabdo342003)** (3 detection-rule fixes) · under review at nmap, volatility3
 - 🌍 Working languages: **Arabic (native) · French (B2) · English (B2)**
 - 🎯 **Open to a 6-month PFE (final-year internship) — February 2027** · three-party agreement provided by EMSI · open to relocation (France &amp; international)
 
