@@ -21,7 +21,7 @@
 
 **Final-year (5th year)** engineering student at **EMSI Casablanca**, majoring in *Cybersecurity &amp; Network Infrastructure* — State Engineering Degree expected in **2027**.
 
-Two internship periods as a **Web Penetration Testing &amp; SOC Analyst at Fifty Five Digital** (14 months total): black-box web audits (OWASP) for real clients and SOC alert triage on the Elastic Stack.
+Two internship periods as a **Web Penetration Testing &amp; SOC Analyst at Fifty Five Digital** (14 months total): black-box pentests on real client infrastructure — web (OWASP) and network (Nmap) — plus SOC on the **Elastic Stack**: alert triage, Wireshark traffic analysis and Suricata rule management.
 
 <p align="center"><img src="https://skillicons.dev/icons?i=python,docker,linux,bash,git,github,vscode" alt="Python · Docker · Linux · Bash · Git · GitHub · VS Code" /></p>
 <p align="center">
