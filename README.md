@@ -188,7 +188,7 @@ Every offensive tool published here is built for **authorized security testing o
 </td>
 <td width="55%">
 <h4>🥉 3rd place — EMSI Inventors Cup (2nd edition)</h4>
-<p>Presented <strong>Exploit AI</strong> — AI-assisted pentest orchestration — as a two-person team.</p>
+<p>Presented <strong>Exploit AI</strong> — pentest orchestration platform — as a two-person team.</p>
 <p>📅 May 2026 &nbsp;·&nbsp; 📍 EMSI Casablanca</p>
 </td>
 </tr>
