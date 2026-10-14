@@ -17,7 +17,7 @@
 
 ## 👨‍💻 Profile
 
-**Final-year (5th year)** engineering student at **EMSI Casablanca**, majoring in *Cybersecurity &amp; Network Infrastructure* — State Engineering Degree expected in **2027**, member of the **LPRI** research laboratory.
+**Final-year (5th year)** engineering student at **EMSI Casablanca**, majoring in *Cybersecurity &amp; Network Infrastructure* — State Engineering Degree expected in **2027**.
 
 Two internship periods as a **Web Penetration Testing &amp; SOC Analyst at Fifty Five Digital** (14 months total): black-box web audits (OWASP) for real clients and SOC alert triage on the Elastic Stack.
 
