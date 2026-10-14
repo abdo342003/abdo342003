@@ -19,15 +19,14 @@
 
 **Final-year (5th year)** engineering student at **EMSI Casablanca**, majoring in *Cybersecurity &amp; Network Infrastructure* — State Engineering Degree expected in **2027**, member of the **LPRI** research laboratory.
 
-I am not only a student: I completed **two internship periods as a Web Penetration Testing &amp; SOC Analyst at Fifty Five Digital** (Mar–Aug 2025 and Jan–Aug 2026 — 14 months), running black-box web audits (OWASP) for real clients and working SOC alerts on the Elastic Stack.
+Two internship periods as a **Web Penetration Testing &amp; SOC Analyst at Fifty Five Digital** (14 months total): black-box web audits (OWASP) for real clients and SOC alert triage on the Elastic Stack.
 
-- 🛡️ Author of **Autonomous Attacker** — an offensive Wi-Fi auditing suite: 97 modules, 1,762 automated tests, built-in scope enforcement
-- 🧠 Author of **Exploit AI** — AI-assisted pentest orchestration on a Neo4j CVE / CWE / MITRE ATT&amp;CK graph: audit time cut from 45 days to 7
-- 🥇 **1st place — KASBAH national digital-forensics exercise** (EMSI × CyberSup, 648 students): investigation of the "MIRAGE" ransomware
-- 🧪 **OT_Shield** (lab project) — an IDPS for an industrial digital twin (OPC UA, Suricata, Elastic)
-- 🤝 **Open-source contributor to flagship security projects** — **merged PR in [projectdiscovery/nuclei-templates](https://github.com/projectdiscovery/nuclei-templates/pull/17394)** (MikroTik WinBox TCP/8291 detection + CVE-2024-54772 templates); three PRs at **SigmaHQ/sigma**, one at **nmap** and one at **volatility3** under review
+- 🛡️ Author of **Autonomous Attacker** (offensive Wi-Fi auditing suite — 97 modules, 1,762 automated tests) and **Exploit AI** (AI pentest orchestration — audit time cut from 45 days to 7)
+- 🥇 **1st place — KASBAH** national digital-forensics exercise (EMSI × CyberSup, 648 students)
+- 🧪 **OT_Shield** — an IDPS for an industrial digital twin (lab project: OPC UA, Suricata, Elastic)
+- 🤝 **Merged upstream PR in [projectdiscovery/nuclei-templates](https://github.com/projectdiscovery/nuclei-templates/pull/17394)** (MikroTik WinBox / CVE-2024-54772) · under review at SigmaHQ/sigma (3 PRs), nmap, volatility3
 - 🌍 Working languages: **Arabic (native) · French (B2) · English (B2)**
-- 🎯 Looking for a **6-month PFE (final-year internship) starting February 2027** — three-party internship agreement provided by EMSI, open to relocation (France &amp; international)
+- 🎯 **Open to a 6-month PFE (final-year internship) — February 2027** · three-party agreement provided by EMSI · open to relocation (France &amp; international)
 
 ---
 
