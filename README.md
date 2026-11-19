@@ -8,7 +8,7 @@
 <img src="https://img.shields.io/badge/Open%20to%20a%206--month%20final--year%20internship%20(PFE)-February%202027-2EA44F?style=for-the-badge&logo=hackthebox&logoColor=white" alt="Open to a 6-month PFE (final-year internship), February 2027" />
 </p>
 <p align="center">
-<a href="https://www.linkedin.com/in/abdellah-erraoui-153137280/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://www.linkedin.com/in/abdellah-erraoui"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:abdellaherraoui3@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <img src="https://img.shields.io/badge/Casablanca-Morocco-1F6FEB?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Casablanca, Morocco" />
 </p>
