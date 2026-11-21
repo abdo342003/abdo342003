@@ -181,7 +181,7 @@ Every offensive tool published here is built for **authorized security testing o
 </td>
 <td width="55%">
 <h4>🥇 1st place — KASBAH National Exercise, Digital Forensics</h4>
-<p>Member of the EMSI digital-forensics team: investigation of the <strong>"MIRAGE" ransomware</strong>, competing against teams from Rabat, Marrakech and Tangier — <strong>648 students</strong>.</p>
+<p>Member of the EMSI digital-forensics team: investigation of the <strong>"MIRAGE" ransomware</strong>, competing against teams from Rabat, Marrakech and Tangier — <strong>665 students</strong>.</p>
 <p>📅 Sep 2026 &nbsp;·&nbsp; 📍 EMSI Casablanca &nbsp;·&nbsp; 🤝 EMSI × CyberSup</p>
 </td>
 </tr>
